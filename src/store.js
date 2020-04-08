@@ -30,9 +30,13 @@ export default new Vuex.Store({
       state.geojsonString = newGeojson
       modifyGeoJSON()
     },
+    setGeoJSONnoModify(state, newGeojson) {
+      if (typeof newGeojson !== 'string') newGeojson = JSON.stringify(newGeojson, null, 2)
+      state.geojsonString = newGeojson
+    },
     setSelectedProperties (state, feature)  {
       state.selectedProperties = feature.properties
-      // highlightSelectedFeatureInCodeArea(feature, state.geojsonString)
+      highlightSelectedFeatureInCodeArea(feature, state.geojsonString)
     },
     setRequiresParsingFix (state, bool) {
       state.requiresParseFixing = bool

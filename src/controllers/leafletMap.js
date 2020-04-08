@@ -21,13 +21,38 @@ let drawnItems = null
 let map = null
 
 export function createMap () {
-  map = L.map('map').setView([0, 0], 2)
 
-  const tiles = L.tileLayer('https://cartodb-basemaps-{s}.global.ssl.fastly.net/light_all/{z}/{x}/{y}.png', {
-    attribution: '&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a> &copy; <a href="http://cartodb.com/attributions">CartoDB</a>',
-    subdomains: 'abcd',
-    maxZoom: 19
-  }).addTo(map)
+  map = L.map("map", {
+    crs: L.CRS.Simple,
+    minZoom: -0.25,
+    maxZoom: 3,
+    zoomSnap: 0,
+    zoomDelta: 0.5,
+
+  }).setView([500, 500], -0.25);
+
+  map.attributionControl.setPrefix(false);
+  map.attributionControl.addAttribution('&copy; <a href="http://maturemasculine.org">Mature Masculine</a>');
+
+
+  // L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+  //   attribution: '&copy; <a href="http://maturemasculine.org">Mature Masculine</a>'
+  // }).addTo(map);
+
+  
+  // const tiles = L.tileLayer('https://cartodb-basemaps-{s}.global.ssl.fastly.net/light_all/{z}/{x}/{y}.png', {
+  //   attribution: '&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a> &copy; <a href="http://cartodb.com/attributions">CartoDB</a>',
+  //   subdomains: 'abcd',
+  //   maxZoom: 19
+  // }).addTo(map)
+
+  var bounds = [
+    [0, 0],
+    [1000, 1000]
+  ];
+  var image = L.imageOverlay("kwml.jpg", bounds).addTo(map);
+  // map.fitBounds(bounds);
+
 
   drawnItems = L.geoJSON(null, {
     style: function () {
@@ -50,7 +75,7 @@ export function createMap () {
         allowIntersection: false
       },
       circlemarker: false,
-      circle: false
+      circle: true
     }
   }))
 
@@ -70,7 +95,10 @@ export function createMap () {
   })
 
   map.on(L.Draw.Event.EDITED, function () {
-    parseGeoJSONAndSendToStore(drawnItems.toGeoJSON())
+    console.log("edited");
+    console.log(drawnItems.toGeoJSON());
+    store.commit('setGeoJSONnoModify', drawnItems.toGeoJSON())
+    // parseGeoJSONAndSendToStore(drawnItems.toGeoJSON())
   })
 
   map.on(L.Draw.Event.DELETED, function () {
@@ -95,16 +123,11 @@ function parseGeoJSONAndSendToStore (geojson) {
 let lastSelectedFeature = null
 
 function highlightSelectedFeature () {
-  lastSelectedFeature.setStyle({
-    color: '#fedc7f'
-  })
+
 }
 
 function resetStyleOfPreviousSelection () {
   if (lastSelectedFeature === null) return
-  lastSelectedFeature.setStyle({
-    color: '#666C79'
-  })
 }
 
 function openPopup(e) {

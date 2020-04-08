@@ -44,7 +44,7 @@
       cancel-text="Cancel"
       @on-ok="loadFromUrl"
     >
-      <Input v-model="remoteUrl" placeholder="Url of geojson" style="width: 300px" />
+      <Input v-model="remoteUrl" placeholder="Url of geojson" style="width: 300px" default="x" />
     </Modal>
   </Row>
 </template>
@@ -64,7 +64,7 @@ export default {
     return {
       loadDataModal: false,
       creatingGist: false,
-      remoteUrl: ''
+      remoteUrl: 'http://localhost:8080/exported.geojson'
     }
   },
   computed: {
