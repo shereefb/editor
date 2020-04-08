@@ -3,45 +3,2310 @@
   "features": [
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "title": "Bully Shadow",
+        "description": " The Bully is a Warrior who loses touch with his vulnerability and his sensitivity. He has the false belief that Courage means not being afraid, so he pretends not to be afraid and tries to control his feelings. Instead of using his strength and agressiveness to serve the realm, he uses them to only serve his own interests. His anger becomes violent, and his actions cause unnecessary pain and suffering in others.   \n  \n  \n## Shadow Declarations  \n- I am not afraid of anything. Nothing can hurt me.  \n- I don't care about feelings  \n- I hate weak people  \n  \n## Balancing the Bully  \n- If I'm attracting Victims in my life then the Bully energy is out of balance and taking over.   \n- I get in touch with the vulnerability and sensitivity of the Victim  \n- I remember that I need love and connection to other people, and that my feelings and theirs matter.   \n- I remember that courage doesn't mean not being afraid. I connect with my fear and accept it.  \n- I remember that strength doesn't mean not having weakness. I connect with my weakness and accept it.  \n- I remember that I'm here to serve something greater than myself, and that my strength was given to me to serve others.  \n- I focus on using force only for protection  \n- I let go of the idea that other people are my enemy.  \n- I stop trying to control my feelings and the feelings of others.  \n  \n## Gift of the Bully  \nIf a Warrior is stuck in Victim energy, they need the gift of the bully's explosive anger in order to get back in touch with their strength.   \n  \n**Off Balance:** Tries to override vulnerability with Strength  \n**Qualities:** Unhealthy Anger, Forcing, Coersion, Cruelty, Violence",
+        "permalink": "/warrior/mature_warrior/bully_shadow",
+        "archetype": "Warrior",
+        "aspect": "Mature Warrior",
+        "type": "Archetype",
+        "type_general": "Archetype",
+        "draft": false,
+        "imageUrl": "bully_shadow",
+        "depth": 3
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          208.65625,
-          492.082031
+          169.205498,
+          462.342001
         ]
       }
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "title": "Victim Shadow",
+        "description": " The Victim is a Warrior who loses touch with his strength and courage. He has the false belief that he shouldn't do things he's afraid of. He becomes a \"pushover\" and gives up easily on his dreams. He is depressed, lacks confidence and feels sorry for himself. He tries to get things from others by making them feel sorry for him, or guilty.   \n  \n  \n## Shadow Declarations  \n- Everything hurts too much, and everyone is against me.  \n- Life is unfair, Poor me.  \n- The world is too scary and the challenges are too big  \n- I need to be hard on myself  \n  \n## Balancing the Victim  \n- If I'm attracting Bullies in my life, then the Victim energy is out of balance and taking over.   \n- I get in touch with anger, strength and courage of the Bully  \n- I remember that I am bigger than my fear, and I practice doing things that I'm afraid of.   \n- I remember that having weakness, doesn't mean I'm weak.  \n- I let go of the idea that the world is happening to me, and start making things happen myself.   \n- I stop complaining and whining, and start taking action.   \n- I develop self-discipline to strengthen my body and control my mind.   \n- I use my anger to say \"no\" when my boundaries are crossed.   \n- I remember that some things are worth fighting for.  \n- I find more mature warriors and ask them to challenge me and train me.   \n  \n## Gift of the Victim  \nIf a Warrior is stuck in Bully energy, he can call on the gift of the Victim's vulnerability and sensitivity to get in touch with his pain and others.'  \n  \n**Off Balance:** In touch with vulnerability but loses touch with strength.  \n**Qualities:** Self-pity. Pathetic. Whining. Complaining. Passive-Agressive.",
+        "permalink": "/warrior/mature_warrior/victim_shadow",
+        "archetype": "Warrior",
+        "aspect": "Mature Warrior",
+        "type": "Archetype",
+        "type_general": "Archetype",
+        "draft": false,
+        "imageUrl": "victim_shadow",
+        "depth": 3
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          505.871094,
-          768.636719
+          260.159477,
+          462.342001
         ]
       }
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "title": "Addict Shadow",
+        "description": " The Addict is a lover who is avoiding pain and focused on the outside world for pleasure. He's always restless, and always searching for something \"more.\" He is hungry to experience the next thing, and doesn't accept limit on his pleasure or recognize healthy boundaries.  \n  \n  \n## Shadow Declarations  \n- There is only a small number of things that bring me pleasure.  \n- It's better to feel good now and not worry about consequences in the future.  \n- I try to numb past pain by today's pleasure.   \n- I connect to others to avoid connecting with myself.  \n- I avoid pain by only trying to experience good things.   \n- I refuse limits on my sensual pleasure.  \n  \n  \n## Balancing the Addict  \n- I connect to my pain and grief and feel it fully. I stop running from it and numbing it.  \n- I remember to connect to myself before others.  \n- I accept that there is a very wide range of experiences of being alive and I welcome it all.  \n- I recognize that, while there is no limit to love, there are healthy limits to every kind of pleasure.   \n- I learn to meditate, so I can detach and gain distance from my feelings.  \n- I set boundaries for myself and others, so I can gain distance and seperateness.  \n  \n  \n## Gift of the Addict  \nWhen the Lover is in the Hermit shadow, he needs the passion and outward focus of the Addict to get out of his rut.  \n  \n**Off Balance:** Aliveness without groundedness makes the addict volatile and unhinged.  \n**Qualities:** Volatility. Restlessness. Obsession. Mania",
+        "permalink": "/lover/mature_lover/addict_shadow",
+        "archetype": "Lover",
+        "aspect": "Mature Lover",
+        "type": "Archetype",
+        "type_general": "Archetype",
+        "draft": false,
+        "imageUrl": "addict_shadow",
+        "depth": 3
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          788.679688,
-          498.382813
+          454.758687,
+          181.974426
         ]
       }
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "title": "Hermit Shadow",
+        "description": " The Hermit is a Lover who has lost touch with his aliveness and experiences life in an \"unfeeling\" way. He has a lack of enthusiasm, vividness and vitality. Bored and listless, he is isolated and disconnected from friends and family. He feels cut off from himself, and his heart is closed.   \n  \n  \n## Shadow Declarations  \n- Nothing brings me pleasure.   \n- I'm too worried about future consequences to enjoy myself.  \n- The past is too painful for me to enjoy myself now.   \n- I get lost in my inner world to avoid connecting with others.   \n- I avoid pain, humiliation, and betrayel by shutting down and having less experiences.  \n  \n  \n## Balancing the Hermit  \n- I learn to detach from my pain and grief. I am bigger than them.   \n- I reach out to connect to others.  \n- I accept that there is a very wide range of experiences of being alive and I welcome it all.  \n- I recognize that love is everywhere, and there is no limit to it.  \n- I learn to dance, breathe, and move my body so I can let my heart open and my emotions flow.  \n- I practice spontaneity and following my bliss so I can ignite the passion inside of me.   \n- I give and recieve touch to feel my body connecting to another and inhabit my sensuality.  \n  \n  \n## Gift of the Hermit  \nWhen the Lover is in the Addict shadow, he needs the groundedness and inner focus of the Hermit to come back to reality and get in touch with his body and inner world.  \n  \n**Off Balance:** Groundedness without Aliveness makes the Hermit depressed and lacking aliveness.  \n**Qualities:** Depression. Flatness. Sterility. Impotence. Boredom. ",
+        "permalink": "/lover/mature_lover/hermit_shadow",
+        "archetype": "Lover",
+        "aspect": "Mature Lover",
+        "type": "Archetype",
+        "type_general": "Archetype",
+        "draft": false,
+        "imageUrl": "hermit_shadow",
+        "depth": 3
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          499.882813,
-          198.878906
+          547.827875,
+          181.974426
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Power",
+        "description": "  \n>\"Power is the ability to do good things for others.\"  \n  \n>\"When the power of love overcomes the love of power, there will be peace.\"  \n  \n>\"The measure of a man is what he does with power.\"  \n  \nThe Mature King understands that the key to owning his power, is allowing his hatred. He uses the hatred to connect to his power and serve the realm. He understands that good and evil are inside of him. And not something that’s out there to be eliminated.   \n  \nHe does this by feeling his hatred fully, and letting its energy fill his heart and his body, but never discharging it. By accepting the hatred in his body, not denying it, and not acting it out, he let's his body transform hatred into pure power.   \n  \nThe Tyrant, feels the hatred, but cannot hold it in his body so he turns it outwards and discharges it. The Weakling, denies the hatred, and tries not to feel it. He represses it, and doesn't let it into his body. This way, he cuts himself off from his power.   \n  \nWhen the Tyrant discharges his power, he turns it outwards towards others in violence. The power then leaves his body and hurts others, leaving him weak and unbalanced. This Tyrant energy disturbs the peace and starts war.   \n  \nWhen the Weakling avoids owning his power he acts \"nice\" and pretends to like things he doesn't, and accepts things that don't work. He does this because he is afraid to lose the relationships in his life, and doesn't want to scare people with his power. Weakling energy creates a \"fake\" peace because the weakling is battling inside himself with hatred.  \n  \nWhen the King lets his power fill his body, mind, and heart, he is peaceful and centered. Pure power doesn't hurt anyone. It does not attack or violate others, and does not allow others to attack or violate. Mature King power creates true peace.  \n",
+        "permalink": "/king/mature_king/power",
+        "archetype": "King",
+        "aspect": "Mature King",
+        "type": "Quality",
+        "type_general": "Quality",
+        "draft": false,
+        "imageUrl": "power",
+        "depth": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          451.558115,
+          856.013784
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Non-Violence",
+        "description": "“Peace cannot be kept by force; it can only be achieved by understanding.”  ~ Martin Luther King, Jr.  \n  \n“Darkness cannot drive out darkness; only light can do that. Hate cannot drive out hate; only love can do that.” ~ Martin Luther King, Jr.  \n  \n\"Each one has to find his peace from within. And peace to be real must be unaffected by outside circumstances.\" ~ Mahatma Ghandi",
+        "permalink": "/king/mature_king/non-violence",
+        "archetype": "King",
+        "aspect": "Mature King",
+        "type": "Quality",
+        "type_general": "Quality",
+        "draft": false,
+        "imageUrl": null,
+        "depth": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          541.118697,
+          854.021785
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Knowledge",
+        "description": "#draft pic  \nmanipulator collects information. thinks he is the authority  \nmature knows that knowledge is stored in the body. internalizes authority  \ndummy externalizes authority, and abdicates his own knowledge.   \n  \n\"Knowledge that works. Doesn't just stay in his head\"",
+        "permalink": "/magician/mature_magician/knowledge",
+        "archetype": "Magician",
+        "aspect": "Mature Magician",
+        "type": "Quality",
+        "type_general": "Quality",
+        "draft": true,
+        "imageUrl": "knowledge",
+        "depth": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          732.545095,
+          576.828183
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Reverence",
+        "description": null,
+        "permalink": "/magician/mature_magician/reverence",
+        "archetype": "Magician",
+        "aspect": "Mature Magician",
+        "type": "Quality",
+        "type_general": "Quality",
+        "draft": true,
+        "imageUrl": null,
+        "depth": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          831.959909,
+          576.828183
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Strength",
+        "description": "#draft pic  \nwarrior strength from within. sourced in the divine. penetrates with love and truth.   \nbully: phallic strength. stubborn. ",
+        "permalink": "/warrior/mature_warrior/strength",
+        "archetype": "Warrior",
+        "aspect": "Mature Warrior",
+        "type": "Quality",
+        "type_general": "Quality",
+        "draft": true,
+        "imageUrl": "strength",
+        "depth": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          164.611529,
+          574.712201
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Sensitivity",
+        "description": "#draft",
+        "permalink": "/warrior/mature_warrior/sensitivity",
+        "archetype": "Warrior",
+        "aspect": "Mature Warrior",
+        "type": "Quality",
+        "type_general": "Quality",
+        "draft": true,
+        "imageUrl": null,
+        "depth": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          259.795925,
+          575.770192
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Passion",
+        "description": "#draft   \n",
+        "permalink": "/lover/mature_lover/passion",
+        "archetype": "Lover",
+        "aspect": "Mature Lover",
+        "type": "Quality",
+        "type_general": "Quality",
+        "draft": true,
+        "imageUrl": null,
+        "depth": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          452.279927,
+          296.460608
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Presence",
+        "description": "#draft   \nfree from the pain of the past, and worry abou the future  \nliving in the body and pay attention to what's happening right now",
+        "permalink": "/lover/mature_lover/presence",
+        "archetype": "Lover",
+        "aspect": "Mature Lover",
+        "type": "Quality",
+        "type_general": "Quality",
+        "draft": true,
+        "imageUrl": null,
+        "depth": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          550.637137,
+          295.402617
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Responsibility",
+        "description": "The Weakling thinks that responsibility is a burden that reduces his freedom. He doesn't understand that avoiding responsibility is the opposite of freedom. The less responsibility he takes, the weaker he gets, which leads to taking less responsibility. This makes the weakling always depend on other people to take care of his realm. He becomes less free, and attracts tyrants into his life who will manipulate and control him.   \n  \nThe Tyrant tries to control others. This makes them weak and keeps him in control. He does things for others that they can do for themselves. He loses his freedom this way because he attracts weaklings into his life that demand that he takes care of them. Because he is always trying to control everything, the Tyrant can never relax or rest, and is never free.  \n  \nThe Mature King understands that the more he is responsible for others, the free-er he his. He takes as much responsibility as he can, and expects others to be responsible for themselves. He learns from the wolf. He leads his pack but expects them to be responsible. This allows him to play with them as equals. He doesn't control them, and doesn't leave them. As part of a pack, he makes sure he is contributing and carrying his own weight. If he needs help he asks for it, until he can get back on his feet. If he's asked for help, he gives it only to the point where the other wolf can take care of himself. If a wolf does not take care of his responsibilities, eventually the pack leaves him, and he learns the hard way to take care of himself.   \n  \n  \n## Mature Responsibility Principles  \n- Define clear boundaries for your realm  \n- Take full responsibility for everything inside your realm, and don't take responsibility for anything outside it  \n- Take full responsibility for your feelings, actions, and needs  \n- Don't take responsibility for other people's feelings, actions, or needs  \n- Only help when someone asks for help and don't push your help on anyone  \n- Don't let anyone do something for you that you can do for yourself  \n- Don't do something for someone that they can do for themselves  \n- Expand your realm every day by increasing what you're responsible for  \n- Respect other's freedom to live their lives and make their own choices",
+        "permalink": "/king/mind/elder/responsibility",
+        "archetype": "King",
+        "aspect": "Mind",
+        "type": "Quality",
+        "type_general": "Quality",
+        "draft": false,
+        "imageUrl": "responsibility",
+        "depth": 4
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          551.110709,
+          938.458659
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Visionary",
+        "description": "#draft  ",
+        "permalink": "/king/spirit/visionary",
+        "archetype": "King",
+        "aspect": "Spirit",
+        "type": "Sub Archetype",
+        "type_general": "Sub Archetype",
+        "draft": true,
+        "imageUrl": null,
+        "depth": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          643.336227,
+          800.159489
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Clarity",
+        "description": "  \n>“It’s a lack of clarity that creates chaos and frustration. Those emotions are poison to any living goal.”  \n  \n>“When things feel murky and unsure, fine tuning our hearing so as to distinguish the voice of our Innermost Self brings clarity.”   \n  \nA king needs a clear mind to see reality as it is, not how he would like it to be. He learns from the eagle how to soar above the details and look at the big picture. He learns from the air element how to not hold on to ideas, or opinions, and clear the mind to receive the information that's needed. When he is not clear, he learns to be in silence, and to wait for clarity.   \n  \nA Mature King does not confuse his mind for his brain. He makes sure his body and heart are clear, for he knows that the mind is not just in the head. In order to be clear, he must have a grounded belly, a content heart, and an empty mind. Clarity means the belly, the heart, and the mind are all aligned.   \n  \nThe King learns to clear his mind by getting rest, connecting to nature, going for a walk, listening to music, or moving his body. Above all, like the eagle, he learns to connect to the sky, rise above the details, and wait until he sees what he is looking for.   \n  \nThe Tyrant and the Weakling both do not have clarity. The Tyrant does not wait for clarity, and makes decisions and acts blindly. The Weakling doubts himself when clarity comes and doesn't trust his mind, or his seeing. ",
+        "permalink": "/king/mature_king/clarity",
+        "archetype": "King",
+        "aspect": "Mature King",
+        "type": "Quality",
+        "type_general": "Quality",
+        "draft": false,
+        "imageUrl": "clarity",
+        "depth": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          201.544052,
+          661.121277
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Wisdom",
+        "description": "#draft   \nIs from experienced. Embodied knowledge. Different than smart or intelligent. It's a mind that recieves",
+        "permalink": "/king/mature_king/wisdom",
+        "archetype": "King",
+        "aspect": "Mature King",
+        "type": "Quality",
+        "type_general": "Quality",
+        "draft": true,
+        "imageUrl": null,
+        "depth": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          777.149278,
+          662.86034
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Authority",
+        "description": "#draft   \npage 208 community and growth  \n  \nAuthority comes from connection to spirit.   \nAuthoring ones own life and allowing others to auther theirs (and supporting them in giving their gifts)  \n  \nTrue kind leads others to their own authority doesn't demand they take his. Tyrant demand others assume his authority, weakling gives in to the authority of others and disconnects from his own. True leader says \"never believe what I say blindly. See for yourself\"",
+        "permalink": "/king/mature_king/authority",
+        "archetype": "King",
+        "aspect": "Mature King",
+        "type": "Quality",
+        "type_general": "Quality",
+        "draft": true,
+        "imageUrl": null,
+        "depth": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          498.089846,
+          875.24961
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Respect",
+        "description": "#draft   \n>\"Over time we gain self-respect by grappling with our deficiencies, by learning that we can do that. If we run away from the difficult parts, we’ll feel like a coward. If we feel like a coward, we won’t respect ourselves. And we can’t lie to ourselves about what we’re actually doing; on a deep level, we know the truth. So we have to grapple with the difficulties in a courageous way. That’s how we gain respect and value.\"  \n  \n>\"When you are being your true self, you are not looking for pleasure, you are not avoiding pain, you are not trying to get approval, nor trying to get someone to admire you. You are not out to criticize someone else, or to defeat someone else, and you are not out to gain fame or power. You are naturally and spontaneously living as a genuine human being who has respect and consideration for other human beings. ……….. To make these values and manifestations second nature, you have to put conscious effort into them. You have to make it your work. This does not mean that you have to be solemn and grim and serious; that is not the point. The point is to act with sincerity and to put conscious effort into being aware of yourself and others in order to treat yourself and others with respect. This also does not mean giving up pleasure; it means not seeking pleasure. It does not mean creating pain; it means not avoiding pain. Life is to be lived with the integrity, dignity, and self-respect of a person who knows that the point is not whether something feels good or bad. The point is not to lose your self-respect, not to abandon your true reality, the highest and purest elements within you. Regardless of how wonderful things are and regardless of how painful things are, your self-respect is strong enough to maintain your sense of integrity. That integrity does not mean having your way, or winning or succeeding or anything like that. It means being sincere about who you are and acting in ways that reflect your essential human values.\"  \n  \n- Self respect, means having a good reputation with yourself. Keeping your word to yourself. Making decisions and taking actions in a way that makes you like yourself.   \n- When we treat ourselves with respect and set good boundaries, we teach other people how we want to be treated.   \n- Tyrant demands respect. Weakling doesn't respect self.   \n- King earns respect, by first respecting himself.   \n- Respects the queen and the feminine. Everything is born of the feminine  \n- Respects himself and the masculine. Everything is sparked by the masculine  \n- Re-spect means to look again. To honor the sanctity of everything.   \n- Not criticizing self or others. Tyrant criticizes others. Weakling criticizes self and lets others criticize him. King accepts himself and others.   \n- King apologizes with self respect. appropriate remorse and regret. Tyrants lives unapologitecially. Weakling diminishes himself in shame when he apologizes.   \n- Respects his body. Tyrant controls his body. Weakling neglects his body.   \n- Respecting the earth, our environment, our word, our limitations, Respect opposition and enemy. Respect their shadow.   \n- Spend time with respectful and self-respecting people  \n- We gain self respect and self-worth by confronting the challenges in our lives head on and doing our best.   \n- People with Self Respect:   \n Honor their values and morals more often than not.  \n Speak about themselves confidently but with appropriate humility.  \n Dress in a way that reflects the positive way they feel about themselves.  \n Have a personal mission statement or personal operating system to guide them.  \n Admit their flaws and mistakes and work to improve them.  \n Don't allow other people to take advantage of them or speak down to them.  \n Know when to leave a compromising or unhealthy situation or relationship.  \n Treat their bodies and minds with care and honor.  \n Can show respect to others who merit it.  \n Recognize that their time, energy, and resources are valuable.  \n Can create appropriate boundaries with others.  \n Don't need to apologize for who they are.  \n Take personal responsibility for all of their actions.  \n Don't feel diminished by constructive criticism or advice.  \n Keep trying in the face of adversity and don't give up on themselves.  \n  \n  ",
+        "permalink": "/magician/mature_magician/respect",
+        "archetype": "Magician",
+        "aspect": "Mature Magician",
+        "type": "Quality",
+        "type_general": "Quality",
+        "draft": true,
+        "imageUrl": null,
+        "depth": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          885.337835,
+          567.81694
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Leadership",
+        "description": "#draft   \n  \n The strategist: leadership as a game of chess. These people are good at dealing with developments in the organization’s environment. They provide vision, strategic direction and outside-the-box thinking to create new organizational forms and generate future growth.  \n The change-catalyst: leadership as a turnaround activity. These executives love messy situations. They are masters at re-engineering and creating new organizational ”blueprints.”  \n The transactor: leadership as deal making. These executives are great dealmakers. Skilled at identifying and tackling new opportunities, they thrive on negotiations.  \n The builder: leadership as an entrepreneurial activity. These executives dream of creating something and have the talent and determination to make their dream come true.  \n The innovator: leadership as creative idea generation. These people are focused on the new. They possess a great capacity to solve extremely difficult problems.  \n The processor: leadership as an exercise in efficiency. These executives like organizations to be smoothly running, well-oiled machines. They are very effective at setting up the structures and systems needed to support an organization’s objectives.  \n The coach: leadership as a form of people development. These executives know how to get the best out of people, thus creating high performance cultures.  \n The communicator: leadership as stage management. These executives are great influencers, and have a considerable impact on their surroundings.",
+        "permalink": "/warrior/mind/chief/leadership",
+        "archetype": "Warrior",
+        "aspect": "Mind",
+        "type": "Quality",
+        "type_general": "Quality",
+        "draft": true,
+        "imageUrl": null,
+        "depth": 4
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          236.530628,
+          663.83363
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Compassion",
+        "description": "#draft pic Compassion is great  \nBalance Action and Empathy.   \nMature king allows for the pain of others, and lets his heart be touched and resonate with their pain. Tries to prevent unnecessary suffering.   \nTyrant is closed-hearted, and inflicts pain without compassion. Action without Empathy.   \nWeakling doesn't want others to hurt, tries to protect them from pain and suffering with false compassion. Empathy without Action.   \n  \nMature compassion does not try to change the pain, but brings a heart to it to allow it to transform. Holds the pain and meets it fully. Doesn't block necessary action.  And informs action with heart. ",
+        "permalink": "/magician/heart/healer/compassion",
+        "archetype": "Magician",
+        "aspect": "Heart",
+        "type": "Quality",
+        "type_general": "Quality",
+        "draft": true,
+        "imageUrl": "compassion",
+        "depth": 4
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          412.925152,
+          813.660934
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Generosity",
+        "description": "Mature king balances giving and receiving. Acknowledges limits.   \nTyrant focuses on taking  \nWeakling gives without boundaries or limits. And is taken from.  \n  \n- Give with the heart. Flows like water. Generous with emotions. They are a gift. Don't hold with the heart. Don't determine with the heart.    \n- Mature king lives at the edge of his generosity. giving no more than feels joyful, and no less than his heart desires.   \n- Understands that everything is a gift. born with nothing. will die with nothing. he is merely a custodial of the realm.   \n- Sees everything as a flow. Receiving is part of the giving. Inhale is part of the exhale.   \n- Because he lives in gratitude for the gifts he received, he gives.   \n- Because our deepest heart's longing is to give our gifts, he is grateful for the opportunity to give. and sees the giving as the receiving.   \n- Is in touch with how abundant our world is. Tyrant and Weakling live in scarcity. Win-Lose. Mature king sees the win win in every giving/recieving.   \n- Enemy of giving is entitlement which destroys gratitude. Or scarcity which increases attachment and greed. The Tyrant forgets all that he has received, and believes he earned it and is entitled to it. Is disconnected from the countless gifts he did not earn. The Weakling lives in scarcity. Disconnected from the abundance in our world.   \n  \nTo return to generosity:  \n  \n- Connect with gratitude and abundance  \n- Practice giving at the edge of your joy  \n- Notice how your heart longs to give its gift  \n- Prioritize connection with other over things  \n- Trust that you'll be taken care of  \n  \nhttps://charleseisenstein.org/essays/living-in-the-gift/  \nhttp://newstoryhub.com/2016/12/giving-david-whyte/  \nhttps://www.diamondapproach.org/glossary/refinery_phrases/generosity  \n  \n>In the story of Interbeing, life is a gift. The world and everything in it is a gift. We did not earn our lives. We did not earn the sun; it is not thanks to our hard efforts that it shines. We did not earn the ability of plants to grow. We did not earn water. We did not earn our conception nor our breath. Our hearts beat and our livers metabolize all on their own. Life is a gift. ~ Charles Eisenstein  \n  \n>When we apprehend these basic truths, gratitude comes naturally. Gratitude is the knowledge of having received and the consequent desire to give in turn. It is primal. All beings including human beings have an unquenchable desire to pour forth their gifts. That is why if you are in a situation where your gifts are not valued, not received, or not useful, you will want to leave that situation, that job or relationship. No matter how much you are being paid, no matter how scared you are to leave the relationship, you’re going to want to bust out and develop and express your capacity to give to the world in service of something you care about. ~ Charles Eisenstein  \n  \n>Speaking of poverty is another way of talking about surrender, about generosity, nonattachment, selflessness. But the state of poverty has a sense of sacredness. Poverty is so absent of everything that it is absolutely sacred. There are no contaminations, no impurities, nothing exists in it absolutely. It is so empty of everything, all attachments, all objects, all qualities, that it is absolute sacredness. The sense is that poverty is where God comes from, the abode of God. Poverty is the condition before anything comes to being. It is completely absolutely sacred because it has not been contaminated by anything occurring. No creation has happened yet. Nothing has occurred. Nothing has been said. Some people call poverty the great death. It is not just the death of you or your ego. It is the death of everything. The absolute cessation and annihilation of all that can be perceived, felt, experienced. It is pre-existence. ~A.H.Almaas  \n  \n>When there are no boundaries, what naturally arises is love, abundance, and generosity, because what blocks love are the boundaries. There is no sense then that you are going to love someone, or that you want someone to love you. You are just you; you are natural, you are just living a human life, and there is love in it, naturally. You do not say, “I want to do this because I want to be loving.” You just do it naturally. You are loving, without having to think about it. You do not have to feel compassionate to be helpful. You are helpful regardless of whether you feel helpful or not. Compassion might be present; you might not even care about it. You are just helpful. So, in a sense, in the Work, nothing is for you; at the same time, everything is for you because you are everything. Each one of us can come to see that these are not ideas, that this is not a point of view. This is actually the fact, this is the state of affairs; it is how things are when your mind is not interpreting things. ~A.H.Almaas  \n  \n>Clearly, the most obvious thing is what all the traditions and teachings have said, which is to live selflessly: to give of oneself instead of accumulating for oneself. The more you give, the more generous you are, the more compassionate, the more loving, the more selfless you are, the less there is an identification with the person because the person is an experience of being an island. An island needs to be protected and enhanced, but if you don’t try to protect it or enhance it, then the generosity will tend to eliminate the boundaries. Generosity is a good word because generosity is an openness. There is no holding back in true generosity. I don’t mean simply open and giving physically, but in all ways. It means not protecting yourself. I don’t mean not protecting yourself in the sense of not closing your doors at night. Not protecting yourself means not trying to build psychological boundaries, not trying to thicken your boundaries, but working on dissolving those boundaries. Generosity really is the heart of the oneness or the unity. When there is the experience of oneness, the heart is experienced as absolute generosity. There is absolutely no holding back. Whatever is there—love, compassion, understanding, knowledge, help—just flows out. But there is a tendency to protect yourself because of a lack understanding . It is not because you are bad. In a relative way, you exist, but if you think of who you are ultimately, you are not a person; yet a person is one of your manifestations. ~A.H.Almaas  \n  \n>When you see that your focus on your self, your separateness, your preoccupation with your personal life, are all barriers against the natural order of reality, you become more willing to be open and loving. There is no threat then about being generous. You see that generosity is our nature. There is no loss in letting go of your point of view; there is tremendous gain—yet no self gains it. The gain is everyone’s gain, the gain is for the universe. You will feel freedom, joy, fulfillment and happiness—but these feelings are not for you to possess, they are for the universe. Whenever any human being loses his point of view, the entire human race benefits. Ultimately, the work we do to understand our lives and our selves is not for us individually, but for the good of everyone, for the earth as a whole. ~A.H.Almaas",
+        "permalink": "/king/heart/provider/generosity",
+        "archetype": "King",
+        "aspect": "Heart",
+        "type": "Quality",
+        "type_general": "Quality",
+        "draft": false,
+        "imageUrl": null,
+        "depth": 4
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          422.867361,
+          822.734157
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Balance",
+        "description": "#draft pic  \nBalances everything. Includes everything so that there can be balance.   \nLays attention to imbalance. Doesn’t reject it. But brings in the other energy.   \n  \nRespect the shadow. And brings everything into the light. ",
+        "permalink": "/king/mature_king/misc/balance",
+        "archetype": "King",
+        "aspect": "Mature King",
+        "type": "Quality",
+        "type_general": "Quality",
+        "draft": true,
+        "imageUrl": "balance",
+        "depth": 4
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          497.955464,
+          827.734689
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Integrity",
+        "description": null,
+        "permalink": "/warrior/mind/chief/integrity",
+        "archetype": "Warrior",
+        "aspect": "Mind",
+        "type": "Quality",
+        "type_general": "Quality",
+        "draft": true,
+        "imageUrl": null,
+        "depth": 4
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          161.34646,
+          654.015668
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Vulnerability",
+        "description": "#draft pic  \n  \nhttps://www.brainpickings.org/2016/04/11/david-whyte-vulnerability/  \nhttps://www.diamondapproach.org/glossary/refinery_phrases/vulnerability  \n  \nWarrior: let himself be impacted, knows he is greater than the impact. includes and transcends it.  \nBully: not impacted. can't see the vulnerability in self and therefore in other.   \nVictim: let's himself be impacted, identifies with the impact. doesn't transcend it.  \n  \n",
+        "permalink": "/warrior/mature_warrior/vulnerability",
+        "archetype": "Warrior",
+        "aspect": "Mature Warrior",
+        "type": "Quality",
+        "type_general": "Quality",
+        "draft": true,
+        "imageUrl": "vulnerability",
+        "depth": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          283.719683,
+          528.478643
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Honesty",
+        "description": "   \n  \nThe Mature Warrior's sword is his Honesty. A Mature Warrior balances telling the truth, and kindness. He doesn't let one defeat the other.   \n  \nThe Bully uses the truth to get what they want. They only choose the parts of the truth that suit them in order to control others and use force. When the Bully tells the truth, they don't care about people’s heart and just blurt it out. Because they do this without kindness, the truth does not penetrate. It hurts.   \n  \nThe Victim keeps the truth in because they are trying to be kind. They lie to themselves and others. Because they are afraid to hurt people they put down their sword of truth. This means they also can't hear other warriors' feedback because it hurts them.   \n  \nHonesty can be scary. It requires a warriors courage. The hardest kind of honesty, is honesty with yourself.  \n  \nThe Mature Warrior tells the truth and includes the fact that he cares about their (feelings heart- don't understand) as part of the truth. He lets other people's feedback impact him without taking it personally.  \n  \n  \n## Honesty Principles   \n- Never lie.   \n- Say what you mean, mean what you say.   \n- Stop speaking if someone isn’t listening. Your words are too precious to waste.   \n- Confront lies, and untruths in yourself and others.   \n- Don’t say things that make you feel weaker.   \n- Hold your opinions lightly.   \n- Assume there’s always more truth than what you can see.   \n- Go into silence until you know the truth.  \n- Real kindness is being honest **and** open-hearted.  \n  \n----  \n  \n>HONESTY is reached through the doorway of grief and loss. Where we cannot go in our mind, our memory, or our body is where we cannot be straight with another, with the world, or with our self. The fear of loss, in one form or another, is the motivator behind all conscious and unconscious dishonesties: all of us are afraid of loss, in all its forms, all of us, at times, are haunted or overwhelmed by the possibility of a disappearance, and all of us therefore, are one short step away from dishonesty. Every human being dwells intimately close to a door of revelation they are afraid to pass through. Honesty lies in understanding our close and necessary relationship with not wanting to hear the truth. The ability to speak the truth is as much the ability to describe what it is like to stand in trepidation at this door, as it is to actually go through it and become that beautifully honest spiritual warrior, equal to all circumstances, we would like to become. Honesty is not the revealing of some foundational truth that gives us power over life or another or even the self, but a robust incarnation into the unknown unfolding vulnerability of existence, where we acknowledge how powerless we feel, how little we actually know, how afraid we are of not knowing and how astonished we are by the generous measure of loss that is conferred upon even the most average life. Honesty is grounded in humility and indeed in humiliation, and in admitting exactly where we are powerless. Honesty is not found in revealing the truth, but in understanding how deeply afraid of it we are. To become honest is in effect to become fully and robustly incarnated into powerlessness. Honesty allows us to live with not knowing. We do not know the full story, we do not know where we are in the story; we do not know who is at fault or who will carry the blame in the end. Honesty is not a weapon to keep loss and heartbreak at bay, honesty is the outer diagnostic of our ability to come to ground in reality, the hardest attainable ground of all, the place where we actually dwell, the living, breathing frontier where there is no realistic choice between gain or loss. ~ David Whyte  \n  \n----  \n  \nhttps://www.youtube.com/watch?v=xxcfiAo_8S4  \n  \n",
+        "permalink": "/warrior/spirit/challenger/honesty",
+        "archetype": "Warrior",
+        "aspect": "Spirit",
+        "type": "Quality",
+        "type_general": "Quality",
+        "draft": false,
+        "imageUrl": "honesty",
+        "depth": 4
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          326.110407,
+          531.677038
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Discernment",
+        "description": "#draft judgement for the tyrant, and non-discernment for the weakling. ",
+        "permalink": "/warrior/spirit/challenger/discernment",
+        "archetype": "Warrior",
+        "aspect": "Spirit",
+        "type": "Quality",
+        "type_general": "Quality",
+        "draft": true,
+        "imageUrl": null,
+        "depth": 4
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          346.905857,
+          530.077841
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Courage",
+        "description": "  \n>“Don't be afraid of your fears. They're not there to scare you. They're there to let you know that something is worth it.”  \n  \n>“A ship is safe in harbor, but that's not what ships are for.”   \n  \n>“Scared is what you're feeling. Brave is what you're doing.”   \n  \n>\"Safety third.\"  \n  \n>“Courage is resistance to fear, mastery of fear - not absence of fear.”   \n  \nFear is normal. Fear is good. Fear is what warns you when when things are dangerous. Fear is what makes you prepare. Fear keeps us out of a lot of trouble. So there is nothing wrong with fear. But fear can also be overwhelming. It can be unreasonable. It can cause you to freeze up and make bad decisions or hesitate when you need to act. So you have to learn to control fear.   \n  \nAnd that's what courage is. Learning that we are bigger than fear. Learning to listen to it, but not let it control us. Learning to respect fear, but put it in its place. So we can act when we need to act, grow when we need to grow, and face what we need to face.   \n  \nBullies don't accept their fear. The deny it and so they scare others. Victims feel their fear, but they let it take charge of their lives and make all the decisions. A true warrior lets himself be afraid, and makes his decision including the fear, but also including many other factors.   \n  \n  \n ",
+        "permalink": "/warrior/spirit/challenger/courage",
+        "archetype": "Warrior",
+        "aspect": "Spirit",
+        "type": "Quality",
+        "type_general": "Quality",
+        "draft": false,
+        "imageUrl": "courage",
+        "depth": 4
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          86.400359,
+          569.657986
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Impeccability",
+        "description": "#draft   \n  \nQuodoskha book. page 85  \npage 202 dh1 book  \nhttp://www.amberallen.com/uncategorized/the-fourth-agreement-always-do-your-best/  \n  \nalways do your best  \nVictim, makes impeccability an outside standard that he can never live up to.   \nBully, focuses outwards and demands impeccability from others  \nMature warrior is impeccable with himself regardless of how others are  \n  \nindulgence to be and do your best at every moment page   \n  \n>To act impeccably means to act with certainty. You cannot act impeccably when you are not sure of yourself. You know it is the best thing, even if you know that it is not perfect, but you do it with certainty. You’re learning to defend against your superego. You are not completely sure what this means, but you know something, and what you know is the best you know, and you do this as if you are certain. And this is what you do until you learn something else. In time, this will evolve and develop into what we call true certainty – essential certainty. Choosing to be an impeccable warrior means choosing to be a person, choosing to be a responsible adult, instead of being your mother’s baby. There is dignity in it; you are your own person, your life is your responsibility and you always have the choice to do your best. Impeccability can be in action, in feeling, in thinking. Impeccability can be in terms of the will, in terms of the mind, in terms of the heart. ~ A.H. Almaas  \n  \n>To be an impeccable warrior, you do your tasks impeccably and your task is to be impeccable. That’s it. You do your best. After a while, you are impeccable for the sake of impeccability itself. I’ve talked about it in terms of a path leading someplace, but it is actually what we’re going toward. It’s both the means and the end. When you are really impeccable, that’s it. It’s not as if you’re looking for truth because truth will lead you someplace, to something else. No. You are dedicated to the truth because the truth is truth. It is the same thing with impeccability.  ~ A.H. Almaas  \n  \n>Being Impeccable is to Be and Do Your Best at Every Moment. As you confront your indulgences, you will see that to continue to be really impeccable and not succumb to your indulgences will mean letting go of all kinds of things. The way of impeccability can be taken as a path on its own. You could attempt to be impeccable all the time. All your indulgences would arise, and these would reveal all your attachments. Impeccability means letting go of those attachments. The way of the impeccable warrior is complete in itself. It is a path to a certain knowledge. In our Work here, we’re not taking that path by itself, but we’re using it. We’re taking that attitude as an aid. That aspect, that perspective, that facet, has a certain point of view, a certain way of looking at things that is needed for our Work to be effective. As we have described, being impeccable is to be and do your best at every moment. At those times when you feel you cannot do your best, you can still do your best by impeccably deciding you will take some time off. This applies to everything you do. To live impeccably means to live impeccably in all tasks, in all aims, in all undertakings, whether you’re learning to defend against your superego or learning to be present all the time. Each one of these needs to be done impeccably for it to actually work. It is the perspective of a certain aspect of Essence that is needed for all the other aspects. As we have seen, indulgence will arise along with uncertainty, and your indulgence and uncertainty will try to stop you from being an impeccable warrior.  ~ A.H. Almaas  \n  \n>Choosing to be an impeccable warrior means choosing to be a responsible adult instead of being your mother’s baby. There is dignity in it; you are your own person. Your life is your responsibility, and you always have the choice to do your best. Impeccability can be in action, in feeling, in thinking. Impeccability can be in terms of the will, in terms of the mind, in terms of the heart. One of the times when some people will become most uncertain about impeccability is when it comes to the heart—where there is softness and gentleness and delicacy—because impeccability seems to imply something sharp and straight. But you can be impeccable about love. This means that you have some understanding about your attractions and their patterns, what’s positive in them and what’s negative. And in this case, to be impeccable means to act according to the knowledge you have about these things. You might know, for instance, that you always give up your heart for the sake of approval, or pleasure, or security, and you know this always creates a mess. In this case, to act impeccably means to go against the usual inclinations of your heart because your heart is not free, not impeccable on its own. ~ A.H. Almaas  \n  \n>Defending Against the Superego Impeccably. When you're learning to defend against your superego, you really need to be an impeccable warrior. You can’t do it in a haphazard way. You can’t do it at one time and not at another, a little bit now, a little bit later. It won’t work. You have to do it constantly, all the time, impeccably. That means if you really want to learn about defending against your superego, you make it your number one aim …you are always aware of defending yourself against your superego and you do your best. ~ A.H. Almaas  \n  \n>Impeccability is Concerned with Now. Being impeccable means you’re not thinking of being something in the future. It means you’re doing something right now. You’re sitting. How do you sit impeccably? How do you listen impeccably? How do you ask questions impeccably? Impeccability is concerned with now, with complete presence at every moment. You are either impeccable or you are not. Part of impeccability is taking limitations into consideration because if you don’t, you’re indulging. You take your limitations into consideration as much as you can. Impeccability is not judged by superego. It is judged by reality, what’s really there. If there is something that can be done, you do it. You do your best at every moment.  ~ A.H. Almaas  \n  \n> It is not to be perfect but to do your best, to act according to all the wisdom, all the understanding, all the experience, all the awareness, all the will that you have. As you confront your indulgences, you will see that to continue to be really impeccable and not succumb to your indulgences will mean letting go of all kinds of things. The way of impeccability can be taken as a path on its own. You could attempt to be impeccable all the time and all your indulgences would arise, which would reveal all your attachments. Impeccability means letting go of those attachments. The way of the impeccable warrior is a way complete in itself, is a path to a certain knowledge. In our Work here, we’re not taking that path by itself, but we’re using it. We’re taking that attitude as an aid.~ A.H. Almaas  \n  \n> To be impeccable is to be realistic. You don’t expect from yourself what you cannot do; you expect the best you can do. Because the way of impeccability will bring up all kinds of uncertainties and unsureness, you will ultimately learn certainty because you will have to deal with those uncertainties. In time, impeccability will become certainty. You become  \ncertain in yourself. You have a certainty that has nothing to do with your mind. So, to act impeccably means to act with certainty. You cannot act impeccably when you are not sure of yourself. You know what the best thing is, and you do it with certainty, even if you know that it is not perfect. You’re learning to defend against your superego. Maybe you are not completely sure what this means, but you know something. And since what you know is thebest you know, you do this as if you are certain. You do this until you learn something else. In time, this attitude will evolve into what we call true certainty, essential certainty.~ A.H. Almaas  \n  \n> I was sure that question would come up. That question is probably arising in the minds of most of you because it is very hard to understand what being impeccable is. On the subtle level of learning to be impeccable, what will arise is the issue of uncertainty. You’re not certain; you’re not sure. “Is this the right way, or is that the right way?” “What does it mean to be impeccable now?” “Is this really impeccability, or is it my superego?” “Am I really indulging, or am I being impeccable?” Things get a little tricky. The personality has its powers and its subtleties. But you see, this is exactly what I was saying. You cannot be perfect in it. Doing things perfectly is not the point. The point is doing your best. If you are not certain, you have two ways to go: this way or that way. The impeccable thing is to take the attitude of the impeccable warrior when the warrior is uncertain. To deal with uncertainty impeccably, you do the best you can do in the situation. At the moment of uncertainty, you might need to pay more attention to yourself, to take the attitude of the detached observer instead of deciding to go this way or that way. Uncertainties will arise, especially when it comes to learning how to be, how to act as an impeccable warrior. As I said earlier, uncertainty is the enemy of impeccability. It is the most subtle enemy. Uncertainty is due to incomplete awareness, incomplete knowledge of what is there. This will often arise because you rarely know everything about a situation. That is exactly when the attitude of impeccability is needed. It is not to be perfect, but to do your best to act according to all the wisdom, all the understanding, all the experience, all the awareness, all the will that you have.~ A.H. Almaas  \n  \n> So what do we do about our indulgences, about our tendencies and attitudes and actions that we know are not good for us and that keep us trapped in our personality? Learning how to deal with indulgence means you must have a certain perspective, a certain attitude toward your life and work. It has to do with how you take action, what you do at any given moment. This brings us to a method that deals primarily with indulgence: the path of the warrior. When you are working on yourself, you need the attitude of the warrior. Not the worrier, the warrior. You need to live the life of the impeccable warrior. To really do the Work, to really be able to succeed, you need to live and work like an impeccable warrior. Everything needs to be done with impeccability. Every attitude, every task, every aim needs to be done impeccably. Now what does that mean? To do something impeccably doesn’t mean to do it perfectly. Let’s look at some examples of what it does mean. Suppose you know you need to work on a certain tendency; for example, you want to stop trying to please other people all the time. Perhaps you take an aim not to try to please other people. How can you do that impeccably? It means you do the best you can in terms of that aim, always, at all times.~ A.H. Almaas  \n  \n> Student: I get confused about knowing when my superego is beating me up and when I know I need to be impeccable. It’s hard to tell the difference.  \nAlmaas: I was sure that question would come up. That question is probably arising in the minds of most of you because it is very hard to understand what being impeccable is. On the subtle level of learning to be impeccable, what will arise is the issue of uncertainty. You’re not certain; you’re not sure. “Is this the right way, or is that the right way?” “What does it mean to be impeccable now?” “Is this really impeccability, or is it my superego?” “Am I really indulging, or am I being impeccable?” Things get a little tricky. The personality has its powers and its subtleties. But you see, this is exactly what I was saying. You cannot be perfect in it. Doing things perfectly is not the point. The point is doing your best. If you are not certain, you have two ways to go: this way or that way. The impeccable thing is to take the attitude of the impeccable warrior when the warrior is uncertain. To deal with uncertainty impeccably, you do the best you can do in the situation. At the moment of uncertainty, you might need to pay more attention to yourself, to take the attitude of the detached observer instead of deciding to go this way or that way. Uncertainties will arise, especially when it comes to learning how to be, how to act as an impeccable warrior. As I said earlier, uncertainty is the enemy of impeccability. It is the most subtle enemy. Uncertainty is due to  \nincomplete awareness, incomplete knowledge of what is there. This will often arise because you rarely know everything about a situation. That is exactly when the attitude of impeccability is needed. It is not to be perfect, but to do your best to act according to all the wisdom, all the understanding, all the experience, all the awareness, all the will that you have.~ A.H. Almaas  \n  \n> To be impeccable at that moment is to do all that you can do to pay attention, to use whatever you have learned, especially at those times when you know you have a tendency not to pay attention. Your knowledge is not perfect, not complete, but you use what you know, the best techniques you have, the best attitude you have, the best understanding you have, and apply it right then. ~ A.H. Almaas",
+        "permalink": "/warrior/mature_warrior/impeccability",
+        "archetype": "Warrior",
+        "aspect": "Mature Warrior",
+        "type": "Quality",
+        "type_general": "Quality",
+        "draft": true,
+        "imageUrl": null,
+        "depth": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          111.194933,
+          632.826298
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Determination",
+        "description": null,
+        "permalink": "/warrior/body/knight/determination",
+        "archetype": "Warrior",
+        "aspect": "Body",
+        "type": "Quality",
+        "type_general": "Quality",
+        "draft": true,
+        "imageUrl": null,
+        "depth": 4
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.389858,
+          528.078843
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Explorer",
+        "description": "#draft   \nArcheology. Travel. Astronaut.   \n  \n---  \nMotto: Don't fence me in  \nCore desire: the freedom to find out who you are through exploring the world  \nGoal: to experience a better, more authentic, more fulfilling life  \nBiggest fear: getting trapped, conformity, and inner emptiness  \nStrategy: journey, seeking out and experiencing new things, escape from boredom  \nWeakness: aimless wandering, becoming a misfit  \nTalent: autonomy, ambition, being true to one's soul  \nThe explorer is also known as: The seeker, iconoclast, wanderer, individualist, pilgrim.  \n  \nhttp://charactertherapist.blogspot.com/2013/05/character-archetypes-101-explorer.html  \n  \nThe explorer is never happy unless experiencing new things. They may enjoy visiting different countries or they may be happy learning about new ideas and philosophies. However, they find it hard to settle down at one job or relationship for too long, unless the job or relationship lets them retain their freedom to explore.  \nGoal: to experience as much of life as possible in one lifetimeFear: getting trapped or being forced to conformWeakness: aimless wandering and inability to stick at thingsTalent: being true to their own desires and a sense of wonder  \nhttps://www.learning-mind.com/12-archetypes/  \n",
+        "permalink": "/warrior/heart/explorer",
+        "archetype": "Warrior",
+        "aspect": "Heart",
+        "type": "Sub Archetype",
+        "type_general": "Sub Archetype",
+        "draft": true,
+        "imageUrl": null,
+        "depth": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          214.372357,
+          373.756258
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Humility",
+        "description": " #draft The Mature Warrior understands that dignity and defeat can co-exist. He knows that his value and self-worth comes from how he meets winning or losing, not whether or not he wins or loses. He is graceful in winning, and dignified in losing.   \n  \nVictims and Bullies think that the only thing that matters is winning. They incorrectly think that their value and self-worth comes from winning and avoiding losing.   \n  \nThe Bully does not acknowledge defeat. He gloats when winning, and gets enraged when losing.  To maintain a false sense of dignity, he forgets his defeats quickly and tries to move on. Never learning to be humble.  \n  \nThe Victim loses his dignity when defeated. He mopes when losing, and pretends to have false humility when winning. Because he's afraid of losing, he doesn't have the courage to try things that are challenging, and gets weaker with time.   \n  \nBecause the victim is humiliated by limitation and failure, he attracts bullies that humiliate him. Because the Bully refuses humility, they humiliate others.   \n  \nThe Mature Warrior lets his limitation bring humility. He defends against bullying voices and keeps his dignity. He knows his worth and meets his limitations.  \nHe becomes like water. Staying close to the earth and respecting his limits. Like water, he uses patience and persistence to carve through rock.  \n  \nWhen the Bully and Victim fall to their knees, they are humiliated and hang their head down in shame. Their shame comes from not having tried their best before being defeated. When the Warrior falls to his knees, he is humbled. Because he has tried his best, he is not humiliated. He connects to the source to reflect, heal and learn. He finds balance again, and gets back on the battlefield.    \n  \nThe victim bends his head in self-pity. The Warrior bends his head down to look inwards, to reflect. To listen to his body and his heart. ",
+        "permalink": "/magician/mature_magician/humility",
+        "archetype": "Magician",
+        "aspect": "Mature Magician",
+        "type": "Quality",
+        "type_general": "Quality",
+        "draft": true,
+        "imageUrl": "humility",
+        "depth": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          695.470212,
+          505.924332
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "selfworth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          497.388555,
+          306.00587
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Sincerity",
+        "description": "#draft   \nWater flows sincerely.   \nsober love",
+        "permalink": "/magician/spirit/seeker/sincerity",
+        "archetype": "Magician",
+        "aspect": "Spirit",
+        "type": "Quality",
+        "type_general": "Quality",
+        "draft": true,
+        "imageUrl": null,
+        "depth": 4
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          354.588551,
+          280.643592
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "athelete"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          66.689047,
+          419.017928
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Will",
+        "description": null,
+        "permalink": "/warrior/body/knight/will",
+        "archetype": "Warrior",
+        "aspect": "Body",
+        "type": "Quality",
+        "type_general": "Quality",
+        "draft": true,
+        "imageUrl": null,
+        "depth": 4
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.477496,
+          518.16819
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Discipline",
+        "description": "#draft   \nWarrior: Discipline equals freedom. short term pain for long term freedom and pleasure. Develop control and mastery of mind and body. Capacity to withstand pain both psychological and physical.   \nVictim: refuses short term pain and chooses short term pleasure. slave to his limitations.   \nBully: bullies himself, and inflicts too much pain on himself removing all pleasure. Enslaves self with discipline.  \n  \n----  \nLookup \"will\" in almaas glossary  \n",
+        "permalink": "/warrior/body/knight/discipline",
+        "archetype": "Warrior",
+        "aspect": "Body",
+        "type": "Quality",
+        "type_general": "Quality",
+        "draft": true,
+        "imageUrl": null,
+        "depth": 4
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.876971,
+          548.552948
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Competitiveness",
+        "description": "#draft   \nintimacy and competition. Comparison without jealous or malice.   \nvictim defeated by comparison. bully tries to defeat. warrior competes with himself and appreciates other warriors for pushing him to his edge. ",
+        "permalink": "/warrior/body/knight/competitiveness",
+        "archetype": "Warrior",
+        "aspect": "Body",
+        "type": "Quality",
+        "type_general": "Quality",
+        "draft": true,
+        "imageUrl": null,
+        "depth": 4
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          334.630418,
+          416.619131
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Ruthlessness",
+        "description": "#draft Not cruelty.  \nCruelty outwards is bullying. Cruelty inward is victim",
+        "permalink": "/warrior/spirit/challenger/ruthlessness",
+        "archetype": "Warrior",
+        "aspect": "Spirit",
+        "type": "Quality",
+        "type_general": "Quality",
+        "draft": true,
+        "imageUrl": "ruthlessness",
+        "depth": 4
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          342.628668,
+          578.138107
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Confrontation",
+        "description": "#draft pic Confronting reality as it is. Bully becomes agressive instead of assertive. Forcing their truth on the other. Victim becomes passive, forgoeing their truth and keeping it in. Victims use avoidance.",
+        "permalink": "/warrior/spirit/challenger/confrontation",
+        "archetype": "Warrior",
+        "aspect": "Spirit",
+        "type": "Quality",
+        "type_general": "Quality",
+        "draft": true,
+        "imageUrl": "confrontation",
+        "depth": 4
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          321.033393,
+          564.544925
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Mastery",
+        "description": "#draft pic  \nmanipulator tries to master to control. wants to reach the end.   \nmature knows there is no end, and enjoys the journey  \ndummy feels defeated by how hard mastery is and doesn't believe he can make it happen. ",
+        "permalink": "/magician/body/alchemist/mastery",
+        "archetype": "Magician",
+        "aspect": "Body",
+        "type": "Quality",
+        "type_general": "Quality",
+        "draft": true,
+        "imageUrl": "mastery",
+        "depth": 4
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          620.055464,
+          554.047067
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Curiosity",
+        "description": "   \n>\"The important thing is not to stop questioning. \"  \n  \n>“It's not a silly question if you can't answer it.”   \n  \n>“Let go of certainty. The opposite isn't uncertainty. It's openness, curiosity and a willingness to embrace paradox, rather than choose up sides. The ultimate challenge is to accept ourselves exactly as we are, but never stop trying to learn and grow.”   \n  \nCuriosity is what drives the Magician to learn about the mystery, and to transform the world. The mature Magician wonders about everything, and wants to know how things work, what things are, and most importantly, wants to understand himself and connect to the spirit.   \n  \nThe Manipulator is focused on having answers, because he is afraid of the mystery and wants to be in control. The Dummy feels humiliated and embarrassed by not knowing and so hides his curiosity, and pretends to know. The mature Magician enjoys the question, and loves asking it. The moment he gets an answer he finds the next question for the fun of it.   \n  \nWhen exploring with other people, the mature Magician always assumes other people know something that he doesn't. He tries to learn from them. The Manipulator thinks that he knows it all. He doesn't listen or ask questions, and just wants to show off what he knows. The Dummy doesn't want to reveal there's something he doesn't know, and doesn't share his knowledge because he feels insecure.  \n---  \n  \nBeginner's mind  \n",
+        "permalink": "/magician/spirit/seeker/curiosity",
+        "archetype": "Magician",
+        "aspect": "Spirit",
+        "type": "Quality",
+        "type_general": "Quality",
+        "draft": false,
+        "imageUrl": "curiosity",
+        "depth": 4
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          669.644613,
+          581.233429
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Beginner's Mind",
+        "description": null,
+        "permalink": "/magician/body/alchemist/beginner's_mind",
+        "archetype": "Magician",
+        "aspect": "Body",
+        "type": "Quality",
+        "type_general": "Quality",
+        "draft": true,
+        "imageUrl": null,
+        "depth": 4
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          948.783535,
+          537.25549
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Healer",
+        "description": "#draft   \n- Inspires others to heal themselves.  \n- Master the flow of energy in self and other. disease is blocked energy.   \n- Wholeness v.s. perfection  \n- Alchemy and transformation  \n- heals body, mind, heart and spirit  \n- balances elements",
+        "permalink": "/magician/heart/healer",
+        "archetype": "Magician",
+        "aspect": "Heart",
+        "type": "Sub Archetype",
+        "type_general": "Sub Archetype",
+        "draft": true,
+        "imageUrl": null,
+        "depth": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          783.219762,
+          380.534108
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Confidence",
+        "description": "#draft pic  \n  \n> \"I don’t know but I can figure it out.\"  \n  \n> \"If you are indifferent to what people think, you can be confident, and if you're confident, you can speak well.\"  \n  \ndummy hides insecurity with silliness. Feels humiliated by the unknown. Avoids it.   \n  \nBully pretends to know. Tries to defeat the unknown. Avoids humiliation.   \n  \nMature lives at the edge of unknown. Trusts that he can learn and can figure things out. ",
+        "permalink": "/warrior/mature_warrior/confidence",
+        "archetype": "Warrior",
+        "aspect": "Mature Warrior",
+        "type": "Quality",
+        "type_general": "Quality",
+        "draft": true,
+        "imageUrl": "confidence",
+        "depth": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.23876,
+          507.695319
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "priest"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          808.406315,
+          663.926322
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Spirituality",
+        "description": "#draft pic  \n>\"We are in the world, but not of the world\"  \n  \nA Mature Magician is a star dancer. He connects the invisible world and the visible world. The world of spirit, and the world of matter.   \n  \nHe knows that he is not of the world. He is not his body. He is not his mind or heart. He is a spirit/soul that is connected to a mystery outside of time and space. A Mature, and also knows that his spirit has chosen to come into the material world. To inhabit a body in time and space.   \n  \nIn order to become a bridge between the world, the Magician respects both equally, and makes it his business to bring the mystery to life. To fully inhabit mater and honor it's sacred nature. He connects the \"as above\" to the \"so below\". To do this, the magician studies the way his body and his soul are connected. He creates sacred spaces in the physical world and tends them. Alters. Temples. He collects and respects sacred objects and symbols. He spends time in nature. He learns the way of the artist, bringing spirit into form through dance, music, poetry, painting, sculpting, and prayer. He learns to make his body, heart and mind and instrument for spirit to play.   \n  \nThis is the Mature Magician as Priest. It is the vertical connection. Connecting Father Sky to Mother Earth.   \n  \nThe Manipulator, is disconnected from spirit, and is lost in the world of the material. Because he is disconnected, matter is no longer sacred. He uses his knowledge to manipulate matter, instead of infusing it with spirit.   \nManipulator becomes materialist by disconnecting from above.  \n  \nThe Dummy can become a space cadet by disconnecting from below. He is more concerned with the spirit world and doesn't respect the world of matter. He abdicates the tonal world and does a spiritual bypass. For the Dummy, the material world doesn't matter. And so again, he does not create sacred space.   \n  \nhttps://www.diamondapproach.org/public-page/world-not-it  \n",
+        "permalink": "/magician/mind/guide/spirituality",
+        "archetype": "Magician",
+        "aspect": "Mind",
+        "type": "Quality",
+        "type_general": "Quality",
+        "draft": true,
+        "imageUrl": "spirituality",
+        "depth": 4
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          837.999839,
+          658.329129
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Transformation",
+        "description": "#draft pic  \nThe body holds and transforms. the earth holds and transforms. alchemy. synergy (1 plus 1 equals 3). ",
+        "permalink": "/magician/body/alchemist/transformation",
+        "archetype": "Magician",
+        "aspect": "Body",
+        "type": "Quality",
+        "type_general": "Quality",
+        "draft": true,
+        "imageUrl": "transformation",
+        "depth": 4
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          659.638867,
+          418.449463
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Creativity",
+        "description": "#draft Addict buys. Handles disconnection by going outside. Hermit handles disconnection by numbing out and getting depressed. Withdrawing. ",
+        "permalink": "/magician/body/alchemist/creativity",
+        "archetype": "Magician",
+        "aspect": "Body",
+        "type": "Quality",
+        "type_general": "Quality",
+        "draft": true,
+        "imageUrl": null,
+        "depth": 4
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          681.234141,
+          391.263101
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Aliveness",
+        "description": "  \n>“Live so fully and so brilliantly that your pain diminishes in your aliveness.”   \n  \n>\"Follow your bliss\"  \n  \n>“When we move in a direction that touches our heart, we add to the momentum of deeper purpose that makes us feel more alive.”   \n  \n>\"Life isn't meant to be lived perfectly, but merely to be lived. Boldly, wildly, beautifully, uncertainly, imperfectly, and magically lived.\"  \n  \nA Lover's sensitive heart allows him to feel life's energy and passion, and his full belly grounds him to the earth. He needs to balance his passion and groundedness to enjoy the aliveness. The addict feels passion without being grounded, so his aliveness is manic and volatile. The Hermit feels grounded without passion, so he is depressed and has no energy.   \nDepression tries to ground us, remind us to connect to the earth. Mania reminds us to be alive. Balancing both brings us the aliveness of the lover.   \n  \nThe Lover appreciates life, because he respects death. Death reminds him how precious life is, and how short. The addict pretends death doesn't no exist. The hermit, lives in the shadow of death and has given up on life. The Lover remembers death, and lives life fully because of it. ",
+        "permalink": "/lover/mature_lover/aliveness",
+        "archetype": "Lover",
+        "aspect": "Mature Lover",
+        "type": "Quality",
+        "type_general": "Quality",
+        "draft": false,
+        "imageUrl": "aliveness",
+        "depth": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          424.018548,
+          291.997272
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Groundedness",
+        "description": "#draft grounded in body. connected to earth.",
+        "permalink": "/lover/mature_lover/groundedness",
+        "archetype": "Lover",
+        "aspect": "Mature Lover",
+        "type": "Quality",
+        "type_general": "Quality",
+        "draft": true,
+        "imageUrl": null,
+        "depth": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          578.384771,
+          276.005294
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Innocent",
+        "description": "#draft   \n  \ndancer, singer  \n  \n---  \n  \nhttp://charactertherapist.blogspot.com/2013/04/character-archetypes-101-innocent.html  \n  \nThose who identify with the innocent archetype are sometimes criticized for being naïve dreamers. However, their positive outlook and happy-go-lucky personalities can uplift others. The innocent always tries to see the good in the world and looks for the silver lining in every situation.  \nGoal: to be happyFear: being punished for doing something wrongWeakness : being too trusting of othersTalent: faith and open-mindedness  \nhttps://www.learning-mind.com/12-archetypes/  \n  \n1. The Innocent  \nMotto: Free to be you and me  \nCore desire: to get to paradise  \nGoal: to be happy  \nGreatest fear: to be punished for doing something bad or wrong  \nStrategy: to do things right  \nWeakness: boring for all their naive innocence  \nTalent: faith and optimism  \nThe Innocent is also known as: Utopian, traditionalist, naive, mystic, saint, romantic, dreamer.",
+        "permalink": "/lover/mind/innocent",
+        "archetype": "Lover",
+        "aspect": "Mind",
+        "type": "Sub Archetype",
+        "type_general": "Sub Archetype",
+        "draft": true,
+        "imageUrl": null,
+        "depth": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          404.022923,
+          105.690731
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Wonder",
+        "description": "#draft   \nin touch with the miracle of life.   \nhermit becomes overwhelmed  \naddict loses wonder in the every day life and seeks novelty",
+        "permalink": "/lover/heart/player/wonder",
+        "archetype": "Lover",
+        "aspect": "Heart",
+        "type": "Quality",
+        "type_general": "Quality",
+        "draft": true,
+        "imageUrl": null,
+        "depth": 4
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          609.984107,
+          129.909832
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Jester",
+        "description": "#draft   \n  \nParadox: Being myself, being in relationship  \nMisheif is the mix of gold and red. Love and individuation. Humour things the boundary between two people. Can't happen without a difference, and can't happen without a connection.   \nJester brings the light heartedness. Removes the seriousness.  \n  \nAddict and Hermit become serious. Addict becomes silly, obnoxious. Brings the individuality without the connection. Hermit, loses the connection. Becomes over sensitive. Is hurt by the difference and feels lonely instead of alone. Loses touch with the absurdity of it all.   \n  \n---  \nMotto: You only live once  \nCore desire: to live in the moment with full enjoyment  \nGoal: to have a great time and lighten up the world  \nGreatest fear: being bored or boring others  \nStrategy: play, make jokes, be funny  \nWeakness: frivolity, wasting time  \nTalent: joy  \nThe Jester is also known as: The fool, trickster, joker, practical joker or comedian.  \n  \nhttps://charactertherapist.blogspot.com/2013/06/character-archetypes-101-jester.html  \n  \nThe jester loves to liven up a party with humor and tricks, however, they have a deep soul. They want to make others happy and can often use humor to change people’s perceptions. Sometimes, however, the jester uses humor to cover his or her own pain.  \nGoal: to lighten up the world and make others laughFear: being perceived as boring by othersWeakness: frivolity, wasting time and hiding emotions beneath a humorous disguiseTalent: seeing the funny side of everything and using humor for positive change  \nhttps://www.learning-mind.com/12-archetypes/2  \n  \nclown, comedian",
+        "permalink": "/lover/body/jester",
+        "archetype": "Lover",
+        "aspect": "Body",
+        "type": "Sub Archetype",
+        "type_general": "Sub Archetype",
+        "draft": true,
+        "imageUrl": null,
+        "depth": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          357.23941,
+          237.056083
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Freedom",
+        "description": "#draft   \n> freedom is an inside job.   \n  \nFreedom within limitations.   \nAddict wants no external limitations. Hermit sees only external limitations.   \n  \nRemebering free choice is an insife job and accepting and enjouing enjoying life regardless of the outside world.   \n  \nIts not not something we earn, or gets given to us or taken away. It’s something we are born with that we need to connect to and recognize.   \n  \nLike water I’m free to be myself and respond as myself regardless of the container I’m in. ",
+        "permalink": "/warrior/mature_warrior/freedom",
+        "archetype": "Warrior",
+        "aspect": "Mature Warrior",
+        "type": "Quality",
+        "type_general": "Quality",
+        "draft": true,
+        "imageUrl": null,
+        "depth": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.782431,
+          381.5461
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Mischief",
+        "description": "#draft   \nJester quality. combines red and gold.   \nParadox of being separate but connected.   \nShadow is silliness (addict) or humorlessness (hermit).   \n  \nMischief teases to please. Pokes to elicit intimacy. ",
+        "permalink": "/lover/body/jester/mischief",
+        "archetype": "Lover",
+        "aspect": "Body",
+        "type": "Quality",
+        "type_general": "Quality",
+        "draft": true,
+        "imageUrl": null,
+        "depth": 4
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          324.559061,
+          275.933455
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "romantic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          588.145135,
+          96.751465
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Pleasure",
+        "description": "#draft pic",
+        "permalink": "/lover/heart/player/pleasure",
+        "archetype": "Lover",
+        "aspect": "Heart",
+        "type": "Quality",
+        "type_general": "Quality",
+        "draft": true,
+        "imageUrl": "pleasure",
+        "depth": 4
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          501.764037,
+          40.779543
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Gratitude",
+        "description": "#draft  \n>“To live, to truly live, one must consider each and every thing a blessing.”  ~ Kamand Kojouri  \n  \n  \n",
+        "permalink": "/king/heart/provider/gratitude",
+        "archetype": "King",
+        "aspect": "Heart",
+        "type": "Quality",
+        "type_general": "Quality",
+        "draft": true,
+        "imageUrl": null,
+        "depth": 4
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          586.20034,
+          653.948437
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Orphan",
+        "description": "#draft   \nbody worker, dancer  \n  \n---  \n  \nMotto: All men and women are created equal  \nCore Desire: connecting with others  \nGoal: to belong  \nGreatest fear: to be left out or to stand out from the crowd  \nStrategy: develop ordinary solid virtues, be down to earth, the common touch  \nWeakness: losing one's own self in an effort to blend in or for the sake of superficial relationships  \nTalent: realism, empathy, lack of pretense  \nThe Regular Person is also known as: The good old boy, everyman, the person next door, the realist, the working stiff, the solid citizen, the good neighbor, the silent majority.  \n  \nThe orphan archetype represents those who are dependable, down to earth realists. Some people might describe them as a little negative at times.  \nThe orphan is always searching for belonging in the world and may join many groups and communities to find a place where they fit in.Goal: to belongFear: to be left out or to stand out from the crowdWeakness: can be a little too cynicalTalent: honest and open, pragmatic and realistic  \nhttps://www.learning-mind.com/12-archetypes/  \n  \nhttps://charactertherapist.blogspot.com/2013/04/character-archetypes-101-orphan.html  \n",
+        "permalink": "/warrior/heart/explorer/orphan",
+        "archetype": "Warrior",
+        "aspect": "Heart",
+        "type": "Quality",
+        "type_general": "Quality",
+        "draft": true,
+        "imageUrl": null,
+        "depth": 4
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          171.458186,
+          352.329507
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "aloneness"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          554.558734,
+          139.814238
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Inspiration",
+        "description": "#draft ",
+        "permalink": "/king/spirit/visionary/inspiration",
+        "archetype": "King",
+        "aspect": "Spirit",
+        "type": "Quality",
+        "type_general": "Quality",
+        "draft": true,
+        "imageUrl": null,
+        "depth": 4
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          604.520635,
+          823.389017
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Conservation",
+        "description": "#draft  ",
+        "permalink": "/king/spirit/visionary/conservation",
+        "archetype": "King",
+        "aspect": "Spirit",
+        "type": "Quality",
+        "type_general": "Quality",
+        "draft": true,
+        "imageUrl": null,
+        "depth": 4
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          672.065111,
+          818.920761
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Elder",
+        "description": "#draft   \n  \nLeadership means that you take agency. You see something missing or something that your heart longs for, or some possibility then it inspires you to create a New World. Leaders believe there’s a reason that there is a longing in their heart. They increased their measure of self worth  every day closing between the world as it is and the world their hearts know is possible. The enroll others. Inspire. Co-ordinate.   \n  \nThere’s a balance between acceptance and gratitude and blessed unrest.  \n",
+        "permalink": "/king/mind/elder",
+        "archetype": "King",
+        "aspect": "Mind",
+        "type": "Sub Archetype",
+        "type_general": "Sub Archetype",
+        "draft": true,
+        "imageUrl": null,
+        "depth": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          497.988595,
+          925.260442
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Sovereignty",
+        "description": null,
+        "permalink": "/king/mind/elder/sovereignty",
+        "archetype": "King",
+        "aspect": "Mind",
+        "type": "Quality",
+        "type_general": "Quality",
+        "draft": true,
+        "imageUrl": null,
+        "depth": 4
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          439.879772,
+          939.796686
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Provider",
+        "description": null,
+        "permalink": "/king/heart/provider",
+        "archetype": "King",
+        "aspect": "Heart",
+        "type": "Sub Archetype",
+        "type_general": "Sub Archetype",
+        "draft": true,
+        "imageUrl": null,
+        "depth": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          497.635299,
+          658.659324
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Receptivity",
+        "description": null,
+        "permalink": "/king/heart/provider/receptivity",
+        "archetype": "King",
+        "aspect": "Heart",
+        "type": "Quality",
+        "type_general": "Quality",
+        "draft": true,
+        "imageUrl": null,
+        "depth": 4
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          555.941198,
+          672.859248
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Peace Maker",
+        "description": "A Mature King is concerned with creating and maintaining peace within his realm, and between realms.  \n  \nTo do this, he must develop the qualities of justice and mercy and balance them. ",
+        "permalink": "/king/body/peace_maker",
+        "archetype": "King",
+        "aspect": "Body",
+        "type": "Sub Archetype",
+        "type_general": "Sub Archetype",
+        "draft": false,
+        "imageUrl": null,
+        "depth": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          353.036538,
+          800.86036
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Justice",
+        "description": null,
+        "permalink": "/king/body/peace_maker/justice",
+        "archetype": "King",
+        "aspect": "Body",
+        "type": "Quality",
+        "type_general": "Quality",
+        "draft": true,
+        "imageUrl": null,
+        "depth": 4
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          311.676492,
+          783.085831
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Mercy",
+        "description": null,
+        "permalink": "/king/body/peace_maker/mercy",
+        "archetype": "King",
+        "aspect": "Body",
+        "type": "Quality",
+        "type_general": "Quality",
+        "draft": true,
+        "imageUrl": null,
+        "depth": 4
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          410.93111,
+          786.883848
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Fairness",
+        "description": null,
+        "permalink": "/king/body/peace_maker/fairness",
+        "archetype": "King",
+        "aspect": "Body",
+        "type": "Quality",
+        "type_general": "Quality",
+        "draft": true,
+        "imageUrl": null,
+        "depth": 4
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          326.882651,
+          840.57018
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Boundaries",
+        "description": null,
+        "permalink": "/king/body/peace_maker/boundaries",
+        "archetype": "King",
+        "aspect": "Body",
+        "type": "Quality",
+        "type_general": "Quality",
+        "draft": true,
+        "imageUrl": null,
+        "depth": 4
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          297.039932,
+          815.122744
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Chief",
+        "description": null,
+        "permalink": "/warrior/mind/chief",
+        "archetype": "Warrior",
+        "aspect": "Mind",
+        "type": "Sub Archetype",
+        "type_general": "Sub Archetype",
+        "draft": true,
+        "imageUrl": null,
+        "depth": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          217.572308,
+          641.175472
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Flow",
+        "description": null,
+        "permalink": "/warrior/mind/chief/flow",
+        "archetype": "Warrior",
+        "aspect": "Mind",
+        "type": "Quality",
+        "type_general": "Quality",
+        "draft": true,
+        "imageUrl": null,
+        "depth": 4
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          265.976299,
+          651.25307
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Challenger",
+        "description": "#draft   \n  \n----  \nMotto: Rules are made to be broken  \nCore desire: revenge or revolution  \nGoal: to overturn what isn't working  \nGreatest fear: to be powerless or ineffectual  \nStrategy: disrupt, destroy, or shock  \nWeakness: crossing over to the dark side, crime  \nTalent: outrageousness, radical freedom  \nThe Outlaw is also known as: The rebel, revolutionary, wild man, the misfit, or iconoclast.  \n  \nWhen the rebel sees something in the world that isn’t working, they look to change it. Rebels like to do things differently.  \nHowever, sometimes rebels can abandon perfectly good traditions just because they have a desire for reform. Rebels can be charismatic and easily encourage others to follow them in their pursuit of rebellion.  \nGoal: to overturn what isn’t workingFear: to be powerlessWeakness: taking their rebellion too far and becoming obsessed by itTalent: having big, outrageous ideas and inspiring others to join them  \nhttps://www.learning-mind.com/12-archetypes/  \n  \nhttps://charactertherapist.blogspot.com/2013/05/character-archetypes-101-rebel.html  \n",
+        "permalink": "/warrior/spirit/challenger",
+        "archetype": "Warrior",
+        "aspect": "Spirit",
+        "type": "Sub Archetype",
+        "type_general": "Sub Archetype",
+        "draft": true,
+        "imageUrl": null,
+        "depth": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          353.694712,
+          511.656114
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Destruction",
+        "description": null,
+        "permalink": "/warrior/spirit/challenger/destruction",
+        "archetype": "Warrior",
+        "aspect": "Spirit",
+        "type": "Quality",
+        "type_general": "Quality",
+        "draft": true,
+        "imageUrl": null,
+        "depth": 4
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          352.872758,
+          465.861298
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Belonging",
+        "description": "#draft pic  \nBalances connection to self and others  \nMature love connects to self and others  \nAddict disconnected from self, and chases others to feel connection.  \nHermit is connected to self, but disconnects from other",
+        "permalink": "/warrior/heart/explorer/belonging",
+        "archetype": "Warrior",
+        "aspect": "Heart",
+        "type": "Quality",
+        "type_general": "Quality",
+        "draft": true,
+        "imageUrl": null,
+        "depth": 4
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          269.611719,
+          382.804593
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Wonder Lust",
+        "description": "#draft ",
+        "permalink": "/warrior/heart/explorer/wonder_lust",
+        "archetype": "Warrior",
+        "aspect": "Heart",
+        "type": "Quality",
+        "type_general": "Quality",
+        "draft": true,
+        "imageUrl": null,
+        "depth": 4
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          164.476928,
+          383.357119
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Knight",
+        "description": "#draft   \nAthlete. Commando. Army. Police.   \n  \nWin with humility.   \nLose with grace.   \n",
+        "permalink": "/warrior/body/knight",
+        "archetype": "Warrior",
+        "aspect": "Body",
+        "type": "Sub Archetype",
+        "type_general": "Sub Archetype",
+        "draft": true,
+        "imageUrl": null,
+        "depth": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.600087,
+          510.784084
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Honor",
+        "description": "#draft   \n",
+        "permalink": "/warrior/body/knight/honor",
+        "archetype": "Warrior",
+        "aspect": "Body",
+        "type": "Quality",
+        "type_general": "Quality",
+        "draft": true,
+        "imageUrl": null,
+        "depth": 4
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.904813,
+          551.104086
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Loyalty",
+        "description": null,
+        "permalink": "/warrior/body/knight/loyalty",
+        "archetype": "Warrior",
+        "aspect": "Body",
+        "type": "Quality",
+        "type_general": "Quality",
+        "draft": true,
+        "imageUrl": null,
+        "depth": 4
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.496323,
+          534.300081
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Guide",
+        "description": "#draft   \n- Connects the heavens with the earth.   \n- Star dancer.   \n- Tends sacred space.   \n- Embodies the divine.   \n- Masters ceremony. ",
+        "permalink": "/magician/mind/guide",
+        "archetype": "Magician",
+        "aspect": "Mind",
+        "type": "Sub Archetype",
+        "type_general": "Sub Archetype",
+        "draft": true,
+        "imageUrl": null,
+        "depth": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          785.735178,
+          641.458942
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Worldiness",
+        "description": "#draft ",
+        "permalink": "/magician/mind/guide/worldiness",
+        "archetype": "Magician",
+        "aspect": "Mind",
+        "type": "Quality",
+        "type_general": "Quality",
+        "draft": true,
+        "imageUrl": null,
+        "depth": 4
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          726.078581,
+          652.98512
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Integration",
+        "description": "#draft   \n",
+        "permalink": "/magician/heart/healer/integration",
+        "archetype": "Magician",
+        "aspect": "Heart",
+        "type": "Quality",
+        "type_general": "Quality",
+        "draft": true,
+        "imageUrl": null,
+        "depth": 4
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          875.304191,
+          373.34198
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Awareness",
+        "description": null,
+        "permalink": "/magician/heart/healer/awareness",
+        "archetype": "Magician",
+        "aspect": "Heart",
+        "type": "Quality",
+        "type_general": "Quality",
+        "draft": true,
+        "imageUrl": null,
+        "depth": 4
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          727.030318,
+          392.935041
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Specialization",
+        "description": null,
+        "permalink": "/magician/heart/healer/specialization",
+        "archetype": "Magician",
+        "aspect": "Heart",
+        "type": "Quality",
+        "type_general": "Quality",
+        "draft": true,
+        "imageUrl": null,
+        "depth": 4
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          699.619816,
+          375.501637
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Seeker",
+        "description": "#draft   \n  \n---  \nMotto: The truth will set you free  \nCore desire: to find the truth.  \nGoal: to use intelligence and analysis to understand the world.  \nBiggest fear: being duped, misled—or ignorance.  \nStrategy: seeking out information and knowledge; self-reflection and understanding thought processes.  \nWeakness: can study details forever and never act.  \nTalent: wisdom, intelligence.  \nThe Sage is also known as: The expert, scholar, detective, advisor, thinker, philosopher, academic, researcher, thinker, planner, professional, mentor, teacher, contemplative.  \n   \nhttps://charactertherapist.blogspot.com/2013/06/archetypes-101-sage.html  \n  \nThe sage values ideas above all else. However, they can sometimes become frustrated at not being able to know everything about the world. Sages are good listeners and often have the ability to make complicated ideas easy for others to understand. They can often be found in teaching roles.  \nGoal: to use wisdom and intelligence to understand the world and teach othersFear: being ignorant, or being perceived as stupidWeakness: can be unable to make a decision as never believe they have enough informationTalent: wisdom, intelligence and curiosity   \nhttps://www.learning-mind.com/12-archetypes/2",
+        "permalink": "/magician/spirit/seeker",
+        "archetype": "Magician",
+        "aspect": "Spirit",
+        "type": "Sub Archetype",
+        "type_general": "Sub Archetype",
+        "draft": true,
+        "imageUrl": null,
+        "depth": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          923.434197,
+          511.048335
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Alchemist",
+        "description": "#draft   \n- Master of technology  \n- Transformation and animation of matter  \n- Engineers, Developers  \n- Brings what is imagined to reality  \n- Systems thinker  \n  \n---  \nMotto: If you can imagine it, it can be done  \nCore desire: to create things of enduring value  \nGoal: to realize a vision  \nGreatest fear: mediocre vision or execution  \nStrategy: develop artistic control and skill  \nTask: to create culture, express own vision  \nWeakness: perfectionism, bad solutions  \nTalent: creativity and imagination  \nThe Creator is also known as: The artist, inventor, innovator, musician, writer or dreamer.  \n  \nThe creator is born to bring something into being that does not yet exist. They hate to be passive consumers of anything, much preferring to make their own entertainment. Creators are often artists or musicians though they can be found in almost any area of work.  \nGoal: to create things of enduring valueFear: failing to create anything greatWeakness: perfectionism and creative blocks caused by fear of not being exceptionalTalent: creativity and imagination  \nhttps://www.learning-mind.com/12-archetypes/2  \n  \nhttps://charactertherapist.blogspot.com/2013/06/character-archetypes-101-creator.html  \n",
+        "permalink": "/magician/body/alchemist",
+        "archetype": "Magician",
+        "aspect": "Body",
+        "type": "Sub Archetype",
+        "type_general": "Sub Archetype",
+        "draft": true,
+        "imageUrl": null,
+        "depth": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          640.890923,
+          511.807458
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Brilliancy",
+        "description": "---  \nLookup brilliancy in glossary",
+        "permalink": "/magician/body/alchemist/brilliancy",
+        "archetype": "Magician",
+        "aspect": "Body",
+        "type": "Quality",
+        "type_general": "Quality",
+        "draft": false,
+        "imageUrl": null,
+        "depth": 4
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          596.827429,
+          544.569862
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Aloneness ",
+        "description": "#draft   \nhermit is lonely   \naddict can’t be alone  \nlover loves themself. respects their aloneness and the aloneness of others.   \nDoesn't come together to get rid of aloneness. but to witness it and be witnessed in it.   \nTrue intimacy respects the aloneness  \n---  \nRespect your child's aloneness",
+        "permalink": "/lover/mature_lover/aloneness_",
+        "archetype": "Lover",
+        "aspect": "Mature Lover",
+        "type": "Quality",
+        "type_general": "Quality",
+        "draft": true,
+        "imageUrl": null,
+        "depth": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          578.982363,
+          208.977435
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Care Giver",
+        "description": "#draft   \n  \n----  \n  \nMotto: Love your neighbour as yourself  \nCore desire: to protect and care for others  \nGoal: to help others  \nGreatest fear: selfishness and ingratitude  \nStrategy: doing things for others  \nWeakness: martyrdom and being exploited  \nTalent: compassion, generosity  \nThe Caregiver is also known as: The saint, altruist, parent, helper, supporter.  \n  \nhttps://charactertherapist.blogspot.com/2013/04/character-archetypes-101-caregiver.html  \n  \n",
+        "permalink": "/lover/mind/care_giver",
+        "archetype": "Lover",
+        "aspect": "Mind",
+        "type": "Sub Archetype",
+        "type_general": "Sub Archetype",
+        "draft": true,
+        "imageUrl": null,
+        "depth": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          518.869125,
+          361.683677
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Self-Worth",
+        "description": "#draft   \nEvery day, do something that increases your measure of self worth.   \n  \n---  \nhttps://www.diamondapproach.org/glossary/refinery_phrases/value  \n",
+        "permalink": "/lover/mind/care_giver/self-worth",
+        "archetype": "Lover",
+        "aspect": "Mind",
+        "type": "Quality",
+        "type_general": "Quality",
+        "draft": true,
+        "imageUrl": null,
+        "depth": 4
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          446.808705,
+          372.818282
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Empathy",
+        "description": "#draft ",
+        "permalink": "/lover/mind/care_giver/empathy",
+        "archetype": "Lover",
+        "aspect": "Mind",
+        "type": "Quality",
+        "type_general": "Quality",
+        "draft": true,
+        "imageUrl": null,
+        "depth": 4
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          551.867476,
+          372.78465
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Artist",
+        "description": "#draft ",
+        "permalink": "/lover/spirit/artist",
+        "archetype": "Lover",
+        "aspect": "Spirit",
+        "type": "Sub Archetype",
+        "type_general": "Sub Archetype",
+        "draft": true,
+        "imageUrl": null,
+        "depth": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          641.67923,
+          230.869486
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Performance",
+        "description": "#draft  ",
+        "permalink": "/lover/spirit/artist/performance",
+        "archetype": "Lover",
+        "aspect": "Spirit",
+        "type": "Quality",
+        "type_general": "Quality",
+        "draft": true,
+        "imageUrl": null,
+        "depth": 4
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          636.331719,
+          256.787771
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Authenticity",
+        "description": "#draft  ",
+        "permalink": "/lover/spirit/artist/authenticity",
+        "archetype": "Lover",
+        "aspect": "Spirit",
+        "type": "Quality",
+        "type_general": "Quality",
+        "draft": true,
+        "imageUrl": null,
+        "depth": 4
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          671.656538,
+          253.042604
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Player",
+        "description": null,
+        "permalink": "/lover/heart/player",
+        "archetype": "Lover",
+        "aspect": "Heart",
+        "type": "Sub Archetype",
+        "type_general": "Sub Archetype",
+        "draft": true,
+        "imageUrl": null,
+        "depth": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          498.702398,
+          92.139756
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Devotion",
+        "description": "#draft ",
+        "permalink": "/lover/heart/player/devotion",
+        "archetype": "Lover",
+        "aspect": "Heart",
+        "type": "Quality",
+        "type_general": "Quality",
+        "draft": true,
+        "imageUrl": null,
+        "depth": 4
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          553.802193,
+          103.339223
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Light Heartedness",
+        "description": "#draft ",
+        "permalink": "/lover/heart/player/light_heartedness",
+        "archetype": "Lover",
+        "aspect": "Heart",
+        "type": "Quality",
+        "type_general": "Quality",
+        "draft": true,
+        "imageUrl": null,
+        "depth": 4
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          444.785063,
+          108.314361
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Dignity",
+        "description": "#draft ",
+        "permalink": "/lover/body/jester/dignity",
+        "archetype": "Lover",
+        "aspect": "Body",
+        "type": "Quality",
+        "type_general": "Quality",
+        "draft": true,
+        "imageUrl": null,
+        "depth": 4
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          385.157306,
+          279.09782
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Mature King",
+        "description": "The King in his fullness brings order, and fertility to the realm. He stabilizes chaotic emotion and provides centerdness to others. He brings calm and balance. Defends the integrity of being and purpose, and provides a sense of order. The mature King looks to the world with a firm and kind eye. He sees others in all their weakness and their talent and worth. He honors, promotes them, and guides them towards their potential. He rewards and encourages. He embodies true authority.   \n  \n  \n## Mature Declarations    \n- I take full responsibility for as much as I can. This gives meaning and purpose to my life.   \n- I use my power to serve everyone with fairness and wisdom.   \n- I serve the realm by providing for it, and bringing order to it.   \n- I inspire and bless my people and my realm.  \n- I balance order and chaos, making sure one does not defeat the other.   \n- I create and negotiate agreements.   \n- I define purpose, principle and meaning.  \n- I do what's needed for the present and the future. I order time and prioritize.  \n- I protect the legacy of my elders and pass it on.   \n- I grapple with good and evil inside my own heart.  \n- I make room for the other archetupes. Build a temple for the priest, carve out time for the lover, and provide tools for the magician.   \n- I resolve conflict with fairness and justice.  \n- I define, negotiate and clarify the boundaries of my realm.   \n- I set healthy limits for myself and others.   \n  \n**Balance:** Chaos <--> Order    \n**Shadow:** Tyrant & Weakling    \n**Power Animal:** Eagle    \n**Qualities:** Power, Leadership, Clarity, Balance, Generosity, Justice, Order, Responsibility, Compassion, Dignity, Wisdom, Integrity, Stability, Centerdness, Authority  \n  \n---  \n  \nhttps://charactertherapist.blogspot.com/search/label/Archetypes  \n  \nMotto: Power isn't everything, it's the only thing. Core desire: control Goal: create a prosperous, successful family or community Strategy: exercise power Greatest fear: chaos, being overthrown Weakness: being authoritarian, unable to delegate Talent: responsibility, leadership The Ruler is also known as: The boss, leader, aristocrat, king, queen, politician, role model, manager or administrator. The ruler loves to be in control. They often have a clear vision of what will work in a given situation. They believe they know what is best for a group or community and can get frustrated if others don’t share their vision. However, they usually have the interests of others at heart even if occasionally their actions are misguided. Goal: create a prosperous, successful family or communityFear: chaos, being undermined or overthrownWeakness: being authoritarian, unable to delegateTalent: responsibility, leadership https://www.learning-mind.com/12-archetypes/2  \n  \n",
+        "permalink": "/king/mature_king",
+        "archetype": "King",
+        "aspect": null,
+        "type": "Archetype",
+        "type_general": "Archetype",
+        "draft": false,
+        "imageUrl": "mature_king",
+        "depth": 2
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          498.548841,
+          785.857516
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Weakling Shadow",
+        "description": " The Weakling lacks centeredness, calmness, and security within himself. He doesn't feel his power, and takes as little responsibility as possible for the world around him, expecting others to take care of him, and attracting Tyrants into his life.  \n  \n  \n## Shadow Declarations  \n- I act weak because I am disconnected from my power  \n- I pretend not to care because I don't want to be humiliated  \n- I take as little responsibility as possible for my life and the lives of others  \n- I depend on people to take care of my realm  \n  \n## Balancing the Weakling  \n- If I'm attracting Tyrants into my life, that means the Weakling energy is out of balance and taking over.  \n- I stop letting others do for me what I can do for yourself.  \n- I get in touch with the Tyrant. I feel his hatred and power. I accept his qualities as a part of me.  \n- I remember free choice, and claim my freedom to live my life the way I want to.   \n- I learn to overcome my fear of asking for what you want.  \n- I remember that people need to keep their agreements with me.  \n- I notice when I'm saying \"yes\", when I want to be saying \"no\".  \n- I look for places where I'm not clear about the boundaries of my realm and clarify them.  \n- I feel the power in my belly, and use it with my love to take care of myself and others.  \n  \n## Gift of the Weakling  \nWhen the King is in Tyrant shadow, he needs the gift of my vulnerability. I help him to connect with his heart, and the limits of his power, so that he can allow himself to not be in total control.   \n  \n**Off Balance:** Lets Chaos reign through powerlessness to bring Order  \n**Qualities:** Guilt, Helplessness, Powerlessness, Avoidance",
+        "permalink": "/king/mature_king/weakling_shadow",
+        "archetype": "King",
+        "aspect": "Mature King",
+        "type": "Archetype",
+        "type_general": "Archetype",
+        "draft": false,
+        "imageUrl": "weakling_shadow",
+        "depth": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          553.09447,
+          746.213639
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Tyrant Shadow",
+        "description": " The Tyrant exploits and abuses others. He is ruthless, merciless, and without feeling when he is pursuing what he thinks is his own self-interest. He hates all beauty, all innocence, all strength, all talent, all life energy. He does so because he lacks inner structure, and he is afraid of his own hidden weakness and his underlying lack of potency.  \n  \n  \n## Shadow Declarations  \n- I use my power to boss people to get what I want and serve myself  \n- Instead of responsibility, I try to take control.  \n- I reject and attack weakness in myself and others.  \n- Evil is out there, and can be squashed  \n- I try to force order on everyone because I can't handle the chaos  \n  \n## Balancing the Tyrant  \n- If I'm attracting weaklings into my life then the Tyrant energy is out of balance and taking over.  \n- I get in touch with the Weakling. I feel his vulnerability and out of controlness, and I accept his qualities as a part of me.   \n- I stop doing for others what they can do for themselves.   \n- I respect other people's freedom to be who they are, and do what they want.  \n- I focus on making requests and not demands.   \n- I remember that nobody owes me anything unless they agreed to it.   \n- I notice when people are saying \"yes\" just because they are scared of me.  \n- I feel the compassion in my heart, and my love for people, and use my power to serve with love.   \n- I notice and let go of my addiction to be needed so I can feel important.  \n  \n## Gift of the Tyrant  \nWhen the King is in his Weakling shadow, I let him feel my power and hatred to balance him.   \n  \n**Off Balance:** Tries to make Order defeat Chaos through control  \n**Qualities:** Blame, Self-importance, Hatred",
+        "permalink": "/king/mature_king/tyrant_shadow",
+        "archetype": "King",
+        "aspect": "Mature King",
+        "type": "Archetype",
+        "type_general": "Archetype",
+        "draft": false,
+        "imageUrl": "tyrant_shadow",
+        "depth": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          452.500522,
+          742.676625
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Mature Warrior",
+        "description": " The Mature Warrior has an aggressive stance towards life that rouses, energizes, and motivates. He pushes to take an offensive position with life's problems and challenges. The warrior is always alert with a focused mind and a strong body. He is a hunter and explorer. He has a brave and unconquerable spirit. He is loyal to something greater than himself.   \n  \n  \n## Mature Declarations  \n- I use force to protect the realm, its order, boundaries and agreements.   \n- I love peace, and fight for it.   \n- I don't make enemies, or look for them.   \n- I know how to have healthy anger, and translate it to strong action.   \n- I persist. I give it my all and always do my best.   \n- I train to acquire skill, strength, control and accuracy.   \n- I am Anti-fragile: Every battle makes me stronger.   \n- I destroy what needs to be destroyed.   \n- I tell the truth. I confront falsehood, lies, and broken agreements.   \n-  I am vulnerable. I keep my heart open and let it guide me.  \n- I spend the lSpirit amount of energy, for the most amount of impact.   \n- I develop control and mastery over my mind and body through self-discipline.   \n- I have the capacity to withstand pain, both psychological and physcial.   \n- I am willing to suffer to achieve what I want.   \n  \n**Balance:** Strength <--> Vulnerability   \n**Shadow:** Bully & Victim  \n**Power Animal:** Tiger   \n**Qualities:** Honesty, Ruthlessness, Exploration, Destruction, Discipline, Courage, Strength, Vulnerability, Focus, Strength, Grit, Resilience, Discernment, Decisive",
+        "permalink": "/warrior/mature_warrior",
+        "archetype": "Warrior",
+        "aspect": null,
+        "type": "Archetype",
+        "type_general": "Archetype",
+        "draft": false,
+        "imageUrl": "mature_warrior",
+        "depth": 2
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          212.218055,
+          504.396788
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Mature Magician",
+        "description": " The Mature Magician is the knower and the master of technology. He guides the process of transformation, both within and without, by using ritual and ceremony. He is initiated into secret and hidden knowledge of all kinds by other Magicians. All knowledge that takes special training to acquire is the province of the Magician. He has insight, and connects the hidden world and the visible world with his knowledge. He uses this knowledge for the benefit of the realm.  \n  \n  \n## Mature Declarations  \n- I use my brilliance, creativity, knowledge, and skills to guide others and serve something greater than myself.   \n- I don't know everything, but I can figure it out.   \n- My purpose is to master transformation and to bridge the manifest and unmanifest worlds.  \n- I am thoughtful, reflective, and emotionally detached.  \n- I feed my spirit by connecting to nature and to the divine. I use this connection to heal others and help them get back into connection.   \n- I love building, creating, making music, art, and making something out of nothing.   \n- I compare myself to my past self, and I'm always improving my skills. Every mistake makes me more competent.   \n- I love learning and teaching. I honor my teachers, and return their gift by teaching others.   \n- Sometimes I succeed, sometimes I fail, but I'm always learning, growing, and transforming.  \n- I guide others, teach them, and initiate them to share my knowledge.  \n- I steward sacred space.  \n  \n**Balance:** Knowledge <--> Mystery  \n**Shadow:** Manipulator, Dummy  \n**Power Animal:** Pheonix  \n**Qualities:** Curiosity, Knowledge, Confidence, Mastery, Transformation, Creativity, Spirituality, Beginner's Mind  \n  \n---  \n  \nMotto: I make things happen.  \nCore desire: understanding the fundamental laws of the universe  \nGoal: to make dreams come true  \nGreatest fear: unintended negative consequences  \nStrategy: develop a vision and live by it  \nWeakness: becoming manipulative  \nTalent: finding win-win solutions  \nThe Magician is also known as:The visionary, catalyst, inventor, charismatic leader, shaman, healer, medicine man.  \n  \nhttps://charactertherapist.blogspot.com/2013/06/character-archetypes-101-magician.html  \n",
+        "permalink": "/magician/mature_magician",
+        "archetype": "Magician",
+        "aspect": null,
+        "type": "Archetype",
+        "type_general": "Archetype",
+        "draft": false,
+        "imageUrl": "mature_magician",
+        "depth": 2
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          783.98822,
+          493.427029
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Manipulator Shadow",
+        "description": " The Manipulator is a Magician who has lost touch with his higher purpose. Instead of guiding others to open their eyes, he controls them in ways they cannot see. Instead of initiating others and lifting them up, he uses his knowledge to keep them down and demonstrate his superiority. He withholds knowledge, and uses secrets to exploit others.   \n  \n  \n## Shadow Declarations  \n- I use my skills and knowledge to control people and to serve myself.   \n- I don't need to figure things out, because I already know.  \n- I am better than others because I know more.    \n- I compare myself to others and find ways that I'm better than them.  \n- I don't aknowledge my failures.  \n- I'm disconnected from the mystery.  \n  \n## Balancing the Manipulator  \n- I get in touch with the wonder and \"beginner's mind\" of the Dummy to feel less arrogant, and more curious.   \n- I remember that my knowledge was given to me by others, and that I have a duty to use it to benefit others, and to pass it on to others.  \n- I begin comparing myself to my past self instead of to others.  \n- I stop pretending to know everything and cultivate a beginner's mind.  \n- I spend time in nature and connect with the spirit. This reminds me of the great mystery and my place in it.   \n- I remember that there is so much I don't know and there is so much to learn.   \n  \n  \n## Gift of the Manipulator  \nWhen the Magician is in his Dummy shadow, he needs the gift of my confidence to get in touch with his ability to know, learn and grow, and not be lost in the mystery.   \n  \n**Off Balance:** Believes his knowledge is bigger than the mystery, so becomes arrogant and tries to control the mystery.   \n**Qualities:** Grandiosity. Arrogance. Manipulative. Hustler.  \n  \n----  \n  \nTrickster",
+        "permalink": "/magician/mature_magician/manipulator_shadow",
+        "archetype": "Magician",
+        "aspect": "Mature Magician",
+        "type": "Archetype",
+        "type_general": "Archetype",
+        "draft": false,
+        "imageUrl": "manipulator_shadow",
+        "depth": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          732.051211,
+          460.996038
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Dummy Shadow",
+        "description": " The Dummy is a Magician that doesn't want the responsibility that comes from the knowledge. He doesn't want to share, teach or help others. He does not want to do the work to steward a sacred space, or to know himself.  \n  \n  \n## Shadow Declarations  \n- I'm not in touch with my creativity and brilliance, so I can't serve myself or others and need other magicians to do things for me.   \n- I don't know, and I can't figure it out.   \n- I am worse than others because I know less.  \n- I compare myself to other people and find ways that I'm worse than them.   \n- If I think I'm going to fail at something, I don't try.   \n- I don't want to make mistakes.   \n- It's easier not to make an effort, and to criticize the efforts of others.  \n  \n## Balancing the Dummy  \n- I recognize that to serve the realm I need to acquire knowledge.   \n- I get in touch with the confidence of the Manipulator to feel less helpless and overwhelmed.  \n- I find Magicians that I respect and ask them to teach me and initiate me.   \n- Begin comparing myself to the past instead of others.  \n- I get in touch with my curiosity and wonder about the world. I let them guide me to learn.  \n- I remember that confidence doesn't come from knowing everything, it comes from learning to figure things out.   \n- I learn to meditate so I can detach and connect to the mystery.   \n  \n  \n## Gift of the Dummy  \nWhen the Magician is in the Manipulator shadow, he needs the gift of \"beginner's mind.\" This helps him be in touch with mystery and humility.  \n  \n**Off Balance:** Believes that the mystery is too much and loses touch with his capacity to know.  \n**Qualities:** Ignorance. False Humility. Lack of curiosity. Fear of failure.",
+        "permalink": "/magician/mature_magician/dummy_shadow",
+        "archetype": "Magician",
+        "aspect": "Mature Magician",
+        "type": "Archetype",
+        "type_general": "Archetype",
+        "draft": false,
+        "imageUrl": "dummy_shadow",
+        "depth": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          827.153936,
+          458.469599
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Mature Lover",
+        "description": " The Mature Lover is extremely sensitive to the inner environment and his inner heart. He is embodied, and knows how to be present and enjoy pleasure without shame. He is connected to self and others. He takes others as part of himself. The Lover is the source of longing for a better world. He is the idealist and the dreamer. The one who wants an abundance of good things for himself and others.    \n  \n  \n## Mature Declarations  \n- My sensitive heart brings aliveness to others, and my playfulness reminds them not to take themselves too seriously.   \n- I know how to let go of the past, and not worry about the future.   \n- I play and enjoy life.  \n- I do what feels good in the moment.   \n- I am sensual, and love exploring my body and connecting with other bodies.   \n- I welcome the painfulness of being alive as well as the ecstacy.   \n- I keep my heart open to the full range of emotions and experience.   \n- My heart is open, and includes everyone.   \n- I have empathy towards everyone.   \n- I have mastered the skill of joining other people's games, and inviting others to play with me.   \n- I keep things fun and inclusive.   \n- What feels good is good.  \n- I want to touch and be touched.   \n- I want to experience the world fully.   \n  \n**Balance:** Aliveness <--> Groundedness  \n**Shadow:** Addict, Hermit  \n**Power Animal:** Sea Otter  \n**Qualities:** Presence, Wonder, Aliveness, Freedom, Joy, Connection, Pleasure, Sensuality, Passion, Groundedness, Enthusiasm, Empathy  \n  \n---  \n  \nMotto: You're the only one  \nCore desire: intimacy and experience  \nGoal: being in a relationship with the people, work and surroundings they love  \nGreatest fear: being alone, a wallflower, unwanted, unloved  \nStrategy: to become more and more physically and emotionally attractive  \nWeakness: outward-directed desire to please others at risk of losing own identity  \nTalent: passion, gratitude, appreciation, and commitment  \nThe Lover is also known as: The partner, friend, intimate, enthusiast, sensualist, spouse, team-builder.  \n  \nhttps://charactertherapist.blogspot.com/2013/05/character-archetypes-101-lover.html  \n",
+        "permalink": "/lover/mature_lover",
+        "archetype": "Lover",
+        "aspect": null,
+        "type": "Archetype",
+        "type_general": "Archetype",
+        "draft": false,
+        "imageUrl": "mature_lover",
+        "depth": 2
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          500.246759,
+          210.959582
         ]
       }
     }

@@ -15,7 +15,7 @@
 <script>
 import { codemirror } from 'vue-codemirror'
 import 'codemirror/lib/codemirror.css'
-import 'codemirror/theme/base16-light.css'
+import 'codemirror/theme/material.css'
 import 'codemirror/addon/selection/active-line.js'
 import 'codemirror/mode/javascript/javascript.js'
 
@@ -154,6 +154,10 @@ export default {
   height: 20px;
   z-index: 10;
   margin-left: -30px;
+}
+
+.CodeMirror-activeline {
+  background: red;
 }
 
 .tooltip .tooltiptext {
